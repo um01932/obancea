@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1767381928554,
+  "timestamp": 1767382186938,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.53f19c70825dce39.js",
+        "/main.889e0404047a86ac.js",
         "/polyfills.743289f59cabc410.js",
         "/runtime.09e9f890db13bd58.js",
         "/styles.8a4fc1831783d9bb.css",
@@ -447,8 +447,8 @@
     "/assets/reviews.json": "fbefb66d6339d49e51972d87e462cfb5d2d3bb59",
     "/assets/zoo.webp": "c84825744ab7fe645a3a6a30e0e7b5156eb5d370",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "db5edeb51911c88782a4044809befdff1d5680fa",
-    "/main.53f19c70825dce39.js": "5aad54531decb56c04994f051835ecccdbab3dbf",
+    "/index.html": "70af65ad6740d8b8db4e215183934951df61b0f4",
+    "/main.889e0404047a86ac.js": "600eadb1d9347e6673ff424d25f37b3904473ae4",
     "/polyfills.743289f59cabc410.js": "a4b225240cca3bf1e01aa41c842d6b31abc1f374",
     "/runtime.09e9f890db13bd58.js": "0d859d483b090f9e51c5c6f507351c27649331dc",
     "/styles.8a4fc1831783d9bb.css": "d48d33057454185acc1deabacf136ad59b3a09c2",
