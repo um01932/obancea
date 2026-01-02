@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1767340923547,
+  "timestamp": 1767344424801,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -446,7 +446,7 @@
     "/assets/reviews.json": "fbefb66d6339d49e51972d87e462cfb5d2d3bb59",
     "/assets/zoo.webp": "c84825744ab7fe645a3a6a30e0e7b5156eb5d370",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "6076c6e422f3044f4c1b7ff33f746dda9b9a18ff",
+    "/index.html": "2834ed3904b39c93f11fab12408afee9c07c1de2",
     "/main.3e2922cb63d8c54a.js": "6ad9834c8e81688426fc9fdd7f6bd2540c487c67",
     "/polyfills.a8cd03f105f69e34.js": "b6d2bca1997d430caf486e598214d7f86ea54b39",
     "/runtime.1462c50fe33b2434.js": "4daf6aedb9ad6a4ec7d11cc015ce4660b8d73284",
