@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1767363915434,
+  "timestamp": 1767381928554,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.b770c2b081a1d278.js",
-        "/polyfills.a8cd03f105f69e34.js",
-        "/runtime.1462c50fe33b2434.js",
-        "/styles.4e3866b89c6a7719.css"
+        "/main.53f19c70825dce39.js",
+        "/polyfills.743289f59cabc410.js",
+        "/runtime.09e9f890db13bd58.js",
+        "/styles.8a4fc1831783d9bb.css",
+        "/vendor.4dfabe75f36b15b1.js"
       ],
       "patterns": []
     },
@@ -446,11 +447,12 @@
     "/assets/reviews.json": "fbefb66d6339d49e51972d87e462cfb5d2d3bb59",
     "/assets/zoo.webp": "c84825744ab7fe645a3a6a30e0e7b5156eb5d370",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "82a9ced84b6d2dc4d5c168bf97f7d3add2aa6995",
-    "/main.b770c2b081a1d278.js": "5f77f53ff35ed667837e849f0d5802cc3c3abe0e",
-    "/polyfills.a8cd03f105f69e34.js": "b6d2bca1997d430caf486e598214d7f86ea54b39",
-    "/runtime.1462c50fe33b2434.js": "4daf6aedb9ad6a4ec7d11cc015ce4660b8d73284",
-    "/styles.4e3866b89c6a7719.css": "529f52b32eb1d67ea515e8d10c1600d1c6d6104b"
+    "/index.html": "db5edeb51911c88782a4044809befdff1d5680fa",
+    "/main.53f19c70825dce39.js": "5aad54531decb56c04994f051835ecccdbab3dbf",
+    "/polyfills.743289f59cabc410.js": "a4b225240cca3bf1e01aa41c842d6b31abc1f374",
+    "/runtime.09e9f890db13bd58.js": "0d859d483b090f9e51c5c6f507351c27649331dc",
+    "/styles.8a4fc1831783d9bb.css": "d48d33057454185acc1deabacf136ad59b3a09c2",
+    "/vendor.4dfabe75f36b15b1.js": "5b7adb7a7b04f275a017ff01681d8ca2dd8b567a"
   },
   "navigationUrls": [
     {
