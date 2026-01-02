@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1767340729916,
+  "timestamp": 1767340923547,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -253,7 +253,7 @@
     "/assets/BikePark.webp": "539b0525f9ef38e555debe660b67ff6b0e82c7b7",
     "/assets/Brambura.webp": "653d737b580ca40243ec82d55ce04a19be52bbee",
     "/assets/Brasov.webp": "587cc6ec504e9ff40ec6832e99ef40e28413b19e",
-    "/assets/BricksAndJoy.webp": "b9a8cf192a21fd6bd81f3e25af3c6e0ade9d6f1f",
+    "/assets/BricksAndJoy.webp": "fcfd3db7ab5a3ee582713ae8840f57fd9ce00f2f",
     "/assets/CastelBran.webp": "f730b036d0ebe320bae9c18c52bf3834f67c6714",
     "/assets/Cetatea.webp": "4900210a79d85470f13d2aef57df1b4c86e3f786",
     "/assets/CheileGradisteiSpa.webp": "361f178b1a092ad2f024263bf29bad5b9a4d4f0b",
@@ -287,7 +287,7 @@
     "/assets/PohMain.webp": "05642963b4f27f792da7df906e85f7f74452e2bf",
     "/assets/PovCalend.webp": "d3a90ce65ce7eb0d157aa974cbea2f868434792f",
     "/assets/RegatulPastravului.webp": "6cc3f34d447d8432405fb077ab06f162f020b025",
-    "/assets/Samurai.webp": "1e5b00546299da7f978612c30c6c304d1fa25e5a",
+    "/assets/Samurai.webp": "170c5f4a5dd7c88e9e939d111fd6300367a44339",
     "/assets/SinaiaSki.webp": "a76471680e2af672f9402af1c4877654ac79b7ff",
     "/assets/SkiCheileGradistei.webp": "c9cb7336cb60323b5684d30263fce036e43a925c",
     "/assets/SkiPoiana.webp": "754d2a52a9d3c45c3904fadef0e45235300142c4",
