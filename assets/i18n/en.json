@@ -281,6 +281,15 @@
       "MESSAGE": "Custom Message"
     }
   },
+  "SEO": {
+    "SITE_TITLE": "Unique Accommodations in Râșnov | Green Dome, Guitar House & Cozy Cabins",
+    "SITE_DESCRIPTION": "Discover unique accommodations in Râșnov, Brașov — Green Dome, Guitar House and cozy cabins. Family-friendly, pet-friendly options with local mountain experiences. Book direct via WhatsApp or check Airbnb.",
+    "SITE_KEYWORDS": "Râșnov accommodations, unique stays Romania, Green Dome Râșnov, Guitar House, mountain cabins Brașov, pet-friendly Romania, glamping Transylvania, Carpathian Mountains stay",
+    "ACTIVITIES_TITLE": "Activities & Adventures in Râșnov | Carpathian Mountains Romania",
+    "ACTIVITIES_DESCRIPTION": "Explore amazing activities near Râșnov: hiking, skiing at Poiana Brașov, visit Bran Castle, local restaurants, horseback riding, and authentic Romanian experiences in the Carpathian Mountains.",
+    "CONTACT_TITLE": "Contact & Booking | Unique Accommodations Râșnov",
+    "CONTACT_DESCRIPTION": "Book your unique stay in Râșnov directly via WhatsApp. Check availability, get personalized recommendations, and plan your perfect Carpathian Mountains getaway."
+  },
   "ACCOMMODATIONS_DETAILS": {
     "PIECE_OF_HEAVEN": {
       "SUBTITLE": "",
@@ -330,7 +339,7 @@
       ]
     },
     "BRICKS_AND_JOY": {
-      "SUBTITLE": "A house like never seen before, dedicated to families with children or the child within you",
+      "SUBTITLE": "",
       "DESCRIPTION_KEY": "bricks-and-joy-desc",
       "NOTES": [
         "Check-in starting with 15:00 PM and Check-out until 11:00 AM",

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1770453549177,
+  "timestamp": 1770476946588,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.446d4fc73aad9fd7.js",
+        "/main.a2a2ecb31acbea15.js",
         "/polyfills.743289f59cabc410.js",
         "/runtime.09e9f890db13bd58.js",
         "/styles.c2c54aa541edd825.css",
-        "/vendor.7b34c40817da1d3c.js"
+        "/vendor.f973badb7861f516.js"
       ],
       "patterns": []
     },
@@ -377,12 +377,12 @@
     "/assets/guitarhouse/image-3.webp": "80faecdaeb0fa21285e360d0187932345d17dce3",
     "/assets/guitarhouse/image-4.webp": "0ee2881c8f26fd018834df703c8732a438cb71f0",
     "/assets/guitarhouse/image-5.webp": "36f899eba2126f73b2d90d564e2fdf2146d72999",
-    "/assets/i18n/activities-en.json": "d4aba438ba8723b79683ea0246af96d802d855ae",
-    "/assets/i18n/activities-ro.json": "8516ec0f6cc13c1464e20fd5158e0fb33e6c985c",
+    "/assets/i18n/activities-en.json": "4dffa32d3fd19a97fe3481cab1866f0d62b00a02",
+    "/assets/i18n/activities-ro.json": "6ff7d447a032cc9fffc7aad3c3d11ab9392c4d6c",
     "/assets/i18n/descriptions-en.json": "5131d3aea1a5a3e11adbad026beedf488deca4a2",
-    "/assets/i18n/descriptions-ro.json": "3cbb8df65c3103d4336b8ff22dc0661a383e6af3",
-    "/assets/i18n/en.json": "2133dc78a676ef700959a15cd8ca1c5f3433ac7c",
-    "/assets/i18n/ro.json": "a6c3f49f92696a32ef57479006068a5ba7848b1e",
+    "/assets/i18n/descriptions-ro.json": "d37291f285aea96fed507d57e7f46b93ff35cc6f",
+    "/assets/i18n/en.json": "3c98529abc60e78b642ab2abc4582bf999576554",
+    "/assets/i18n/ro.json": "f7cb7b3396e5de7a3f178c81a574972f62922c91",
     "/assets/icons/README.md": "e4fe75ec56cf157fff77bfd1e35d03140cbf363f",
     "/assets/icons/icon-128x128.png": "bcd81615cbec60ac96b5b94a8bcfc36969d89b2b",
     "/assets/icons/icon-144x144.png": "b602530554c63709693fda6604b929b6987b8ae7",
@@ -495,12 +495,12 @@
     "/assets/reviews.json": "fbefb66d6339d49e51972d87e462cfb5d2d3bb59",
     "/assets/zoo.webp": "c84825744ab7fe645a3a6a30e0e7b5156eb5d370",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "ab48ffa9d3ab438738a6e405c230768fe65854cb",
-    "/main.446d4fc73aad9fd7.js": "4e53bcfe2b5a985ece8b1f6628d7fd8e9eab7711",
+    "/index.html": "88d1c1a092b07fe8343750e1e032c8df8aed99e1",
+    "/main.a2a2ecb31acbea15.js": "f5f80cdd7af57607e767d93114857123e202d3f1",
     "/polyfills.743289f59cabc410.js": "a4b225240cca3bf1e01aa41c842d6b31abc1f374",
     "/runtime.09e9f890db13bd58.js": "0d859d483b090f9e51c5c6f507351c27649331dc",
     "/styles.c2c54aa541edd825.css": "7ad1768680870c1746965013ad2a7f53514ae347",
-    "/vendor.7b34c40817da1d3c.js": "1e4d8bb4bdba58eedbe57a7de125fd698ead4101"
+    "/vendor.f973badb7861f516.js": "c2e415d72a994bce72583fbaf66ac1d50770d255"
   },
   "navigationUrls": [
     {

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Home Page -->
+  <url>
+    <loc>https://www.obancea.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Accommodations -->
+  <url>
+    <loc>https://www.obancea.com/accommodations</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/accommodations?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodations?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodations"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Piece of Heaven -->
+  <url>
+    <loc>https://www.obancea.com/accommodation/piece-of-heaven</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/accommodation/piece-of-heaven?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodation/piece-of-heaven?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodation/piece-of-heaven"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Piece of Dream -->
+  <url>
+    <loc>https://www.obancea.com/accommodation/piece-of-dream</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/accommodation/piece-of-dream?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodation/piece-of-dream?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodation/piece-of-dream"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Guitar House -->
+  <url>
+    <loc>https://www.obancea.com/accommodation/guitar-house</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/accommodation/guitar-house?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodation/guitar-house?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodation/guitar-house"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Green Dome -->
+  <url>
+    <loc>https://www.obancea.com/accommodation/green-dome</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/accommodation/green-dome?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodation/green-dome?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodation/green-dome"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Bricks and Joy -->
+  <url>
+    <loc>https://www.obancea.com/accommodation/bricks-and-joy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/accommodation/bricks-and-joy?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodation/bricks-and-joy?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodation/bricks-and-joy"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Activities -->
+  <url>
+    <loc>https://www.obancea.com/activities</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/activities?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/activities?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/activities"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Explore -->
+  <url>
+    <loc>https://www.obancea.com/explore</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/explore?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/explore?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/explore"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://www.obancea.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/contact?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/contact?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/contact"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Gifts -->
+  <url>
+    <loc>https://www.obancea.com/gifts</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/gifts?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/gifts?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/gifts"/>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Services -->
+  <url>
+    <loc>https://www.obancea.com/services</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/services?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/services?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/services"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Check-in -->
+  <url>
+    <loc>https://www.obancea.com/checkin</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.obancea.com/checkin?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/checkin?lang=ro"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/checkin"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>

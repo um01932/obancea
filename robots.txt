@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.obancea.com/sitemap.xml
+
+# Block access to certain paths if needed
+# Disallow: /admin/
+# Disallow: /private/
