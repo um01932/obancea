@@ -1,0 +1,342 @@
+{
+  "NAV": {
+    "ACCOMMODATIONS": "Cazări",
+    "ACTIVITIES": "Explorează Activități Locale",
+    "EXPLORE": "Explorează Împrejurimile",
+    "GIFTS": "Cadouri",
+    "CONTACT": "Contact & Rezervare",
+    "WHATSAPP": "WhatsApp +40748155997"
+  },
+  "COMMON": {
+    "CAPACITY": "Capacitate",
+    "PRICE_PER_NIGHT": "Preț / noapte",
+    "WEEKDAYS": "Zile lucrătoare",
+    "WEEKENDS": "Weekend-uri",
+    "VIEW_ALL_PHOTOS": "Vezi toate pozele",
+    "AVAILABILITY_CALENDAR": "Calendar disponibilitate",
+    "PROPERTY_DETAILS": "Detalii proprietate",
+    "IMPORTANT_NOTES": "Note importante",
+    "GUEST_REVIEWS": "Recenzii oaspeți",
+    "SHOW_LESS": "Arată mai puțin",
+    "SHOW_ALL_REVIEWS": "Arată toate {{count}} recenziile",
+    "CHECK_ON_AIRBNB": "Vezi pe Airbnb",
+    "BOOK_WITH_US": "Rezervă cu noi",
+    "CHECK_AIRBNB": "Vezi pe Airbnb",
+    "BUTTONS": {
+      "BOOK_NOW": "Rezervă acum",
+      "BOOK_WITH_US": "Rezervă cu noi",
+      "SHOW_DETAILS": "Arată detalii",
+      "CHECK_AIRBNB": "Vezi pe Airbnb",
+      "VIEW_ALL": "Arată toate activitățile",
+      "VISIT_WEBSITE": "Vizitează site-ul",
+      "DIRECTIONS": "Direcții",
+      "SEND_WHATSAPP": "Trimite mesaj WhatsApp",
+      "REQUEST_VOUCHER": "Solicită voucher prin WhatsApp"
+    },
+    "LOADING": {
+      "IMAGE": "Se încarcă imaginea...",
+      "ACTIVITIES": "Se încarcă activități minunate...",
+      "PLEASE_WAIT": "Se încarcă activitățile..."
+    },
+    "ICONS": {
+      "HOME": "Acasă",
+      "GIFT": "Cadou",
+      "MAP": "Hartă"
+    }
+  },
+  "HOME": {
+    "TITLE": "Cazări Unice",
+    "LOCATION": "📍 Râșnov, Brașov, România",
+    "SUBTITLE": "Descoperă escapada ta perfectă"
+  },
+  "ACCOMMODATION_LIST": {
+    "TITLE": "Cazări Unice",
+    "LOCATION": "📍 Râșnov, Brașov, România",
+    "MAX_CAPACITY": "Capacitate maximă:",
+    "PET_FRIENDLY": "Acceptăm animale:",
+    "YES": "Da",
+    "NO": "Nu",
+    "PRICE_PER_NIGHT": "Preț / noapte:",
+    "WEEKDAYS": "Zile lucrătoare:",
+    "WEEKENDS": "Weekend-uri:"
+  },
+  "ACTIVITIES": {
+    "TITLE": "🏔️ Activități & Aventuri",
+    "LOCATION": "📍 Râșnov, Brașov & Zonele Înconjurătoare",
+    "SUBTITLE": "Descoperă activități și aventuri minunate în inima Munților Carpați din România",
+    "FILTER": {
+      "ALL": "Toate activitățile",
+      "CATEGORIES": "Categorii"
+    },
+    "NO_RESULTS": {
+      "TITLE": "Nu s-au găsit activități",
+      "MESSAGE": "Încearcă să selectezi o altă categorie sau vezi toate activitățile."
+    },
+    "DETAILS": {
+      "DURATION": "Durată:",
+      "DISTANCE": "Distanță:",
+      "LOCATION": "Locație:",
+      "PRICE": "Preț:",
+      "CONTACT": "Contact:",
+      "TAGS": "Etichete"
+    }
+  },
+  "CONTACT": {
+    "TITLE": "📞 Contactează-ne",
+    "SUBTITLE": "Gata să îți rezervi escapada perfectă? Completează formularul de mai jos și vom pregăti mesajul tău WhatsApp!",
+    "FORM": {
+      "ACCOMMODATION_LABEL": "Alege cazarea ta",
+      "ACCOMMODATION_PLACEHOLDER": "Selectează o cazare...",
+      "ACCOMMODATION_REQUIRED": "Te rugăm să selectezi o cazare.",
+      "ACCOMMODATION_SELECTED": "Alegere excelentă! Ai selectat această cazare pentru rezervare.",
+      "GUESTS_LABEL": "Număr de oaspeți",
+      "GUESTS_MAX": "(Max: {{max}})",
+      "GUESTS_REQUIRED": "Te rugăm să introduci un număr valid de oaspeți (1-{{max}}).",
+      "GUESTS_INFO": "Capacitate maximă pentru cazarea selectată: {{max}} oaspeți",
+      "DATES_LABEL": "Selectează datele",
+      "SELECT_ACCOMMODATION_FIRST": "Te rugăm să selectezi mai întâi o cazare pentru a vedea datele disponibile",
+      "MINIMUM_STAY_INFO": "<strong>Sejur minim:</strong> 2 nopți necesar. Dă click pe datele disponibile pentru a-ți selecta sejurul.",
+      "ERROR_PAST_DATE": "Data de check-in nu poate fi în trecut.",
+      "ERROR_DATE_ORDER": "Data de check-out trebuie să fie după data de check-in.",
+      "ERROR_MINIMUM_STAY": "Sejurul minim este de 2 nopți.",
+      "MESSAGE_LABEL": "Mesaj adițional (Opțional)",
+      "MESSAGE_PLACEHOLDER": "Solicitări speciale sau întrebări?",
+      "PREVIEW": "Previzualizare mesaj",
+      "NOTES_TITLE": "Note",
+      "ACKNOWLEDGE_NOTES": "Am citit și confirm toate notele",
+      "ACKNOWLEDGE_REQUIRED": "Trebuie să confirmi notele pentru a continua cu rezervarea.",
+      "SEND_WHATSAPP": "Trimite mesaj WhatsApp",
+      "FILL_REQUIRED": "Te rugăm să completezi toate câmpurile obligatorii",
+      "INQUIRIES_INFO": "Pentru întrebări și informații, te rugăm să ne contactezi pe WhatsApp la"
+    },
+    "DEPOSIT": {
+      "TITLE": "Informații Rezervare & Depozit",
+      "MESSAGE": "<strong>Un depozit de minim prețul unei nopți va fi necesar pentru a confirma rezervarea dacă decizi să rezervi direct cu noi.</strong> În caz de anulare, acest depozit nu va fi rambursat.",
+      "PAYMENT_INFO": "<strong>Opțiunile de plată vor fi trimise pe WhatsApp după stabilirea detaliilor rezervării.</strong>",
+      "MIN_NIGHTS": "<strong>Număr minim de nopți pentru rezervare: 2</strong>"    },
+    "FOOTER": {
+      "WHATSAPP_TITLE": "Contact Direct WhatsApp"    }
+  },
+  "CHECKIN": {
+    "TITLE": "Lucruri de știut când stai la noi",
+    "SUBTITLE": "Vrem ca sejurul tău să fie cât mai plăcut și lipsit de probleme. Te rugăm să consulți detaliile importante de mai jos despre check-in, regulile casei și cum să folosești diverse facilități.",
+    "LOCATION": {
+      "TITLE": "Locație & direcții",
+      "MESSAGE": "Recomandăm să folosești una dintre următoarele soluții GPS pentru a ajunge ușor la noi. Dă click pe link-uri pentru itinerariul exact:",
+      "WAZE": "Direcții Waze",
+      "GOOGLE": "Direcții Google Maps"
+    },
+    "CHECKIN_CHECKOUT": {
+      "TITLE": "Check-in & Check-out",
+      "CHECKIN": "Check-in: de la 15:00",
+      "CHECKOUT": "Check-out: până la 11:00",
+      "ARRIVAL_TIME": "Te rugăm să ne anunți ora aproximativă de sosire în ziua de check-in pentru a ne putea pregăti în consecință.",
+      "INSTRUCTIONS": "Pentru Piece of Heaven și Piece of Dream, te vom întâmpina la check-in. Pentru celelalte cazări, vei primi instrucțiuni de self check-in.",
+      "NO_MUSIC": "Fără muzică afară și fără invitați externi."
+    },
+    "SHOPPING": {
+      "TITLE": "Cumpărături & aprovizionare",
+      "MESSAGE": "Nu sunt magazine în apropiere. Te rugăm să faci cumpărăturile în Râșnov sau pe drum către noi.",
+      "FORM": "În căsuță vei regăsi un formular de cazare, te rog să îl completezi, este necesar conform legii."
+    },
+    "HEATING": {
+      "TITLE": "Încălzire",
+      "MESSAGE": "Căsuța dispune de încălzire electrică în pardoseală cu termostat inteligent."
+    },
+    "WATER": {
+      "TITLE": "Apă",
+      "MESSAGE": "Apa noastră provine din izvoare naturale și este potabilă conform testelor oficiale. Vezi rezultatele analizelor mai jos. Dacă ești sensibil la anumiți parametri, te rugăm să folosești apă îmbuteliată."
+    },
+    "WIFI": {
+      "TITLE": "Parolă Wifi:",
+      "PASSWORD": "abcde12345"
+    },
+    "PARTICULARITIES": {
+      "TITLE": "Particularități cazări",
+      "PIECE_OF_HEAVEN": {
+        "NAME": "Piece of Heaven",
+        "HEATING": "<strong>Încălzire:</strong> Încălzire electrică în pardoseală cu termostat inteligent. Pe vreme foarte rece, folosește șemineul clasic pe lemne furnizat. Folosește întotdeauna cu precauție, casa fiind din lemn. Folosește doar lemnele și brichetele furnizate. Nu plasa niciodată nimic pe sau lângă șemineu.",
+        "FIREPLACE_USE": "<strong>Folosirea Șemineului:</strong>",
+        "FIREPLACE_STEP1": "Plasează 2 brichete de foc în șemineu și aprinde-le.",
+        "FIREPLACE_STEP2": "Adaugă 3-4 bucăți mici de lemn și 2-3 mai mari deasupra.",
+        "FIREPLACE_STEP3": "Asigură-te că focul de la brichete ajunge la lemne, apoi închide ușa șemineului.",
+        "FIREPLACE_STEP4": "Adaugă bucăți mai mari de lemn după necesitate pentru a menține focul aprins.",
+        "TERRACE": "<strong>Terasă & Grătar:</strong> Terasă mică, foișor dedicat și grătar din piatră. Adu propriile cărbuni pentru grătar; furnizăm lemne și brichete pentru aprinderea focului.",
+        "SHOWER": "<strong>Apă Duș:</strong> Un singur robinet on/off, temperatura presetată la 38°C.",
+        "DOGS": "<strong>Câinii Noștri:</strong> Te rugăm să nu îi hrănești (cu excepția biscuiților pentru câini). Nu lăsa câinii sau pisicile înăuntru. Ține poarta mică închisă ca să nu ajungă câinii la zona de parcare."
+      },
+      "PIECE_OF_DREAM": {
+        "NAME": "Piece of Dream",
+        "FIREPLACE": "<strong>Șemineu:</strong> Șemineu automat pe peleți de lemn. Folosește doar termostatul pentru control. Nu deschide ușa șemineului decât pentru curățare/mentenanță. Nu plasa nimic pe sau lângă șemineu. Nu folosi consola sau schimba setările.",
+        "FILLING": "<strong>Umplerea Șemineului:</strong> Umple cu peleți de lemn la fiecare 2-3 zile (sau după necesitate) doar când este rece. Peleții sunt depozitați într-un compartiment special pe terasă.",
+        "TERRACE": "<strong>Terasă & Grătar:</strong> Relaxează-te sau fă grătar pe terasă folosind grătarul pe gaz. Fii precaut cu focul și când fumezi, casa fiind din lemn.",
+        "DOGS": "<strong>Câinii Noștri:</strong> Te rugăm să nu îi hrănești (cu excepția biscuiților pentru câini). Nu lăsa câinii sau pisicile înăuntru. Ține poarta mică închisă ca să nu ajungă câinii la zona de parcare."
+      },
+      "GUITAR_HOUSE": {
+        "NAME": "Guitar House",
+        "HEATING": "<strong>Încălzire:</strong> Încălzire electrică în pardoseală cu termostat inteligent. Aerul condiționat poate fi folosit și pentru încălzire.",
+        "TERRACE": "<strong>Terasă & Grătar:</strong> Terasă mică, foișor dedicat și grătar din piatră. Adu propriile cărbuni pentru grătar; furnizăm lemne și brichete pentru aprinderea focului."
+      },
+      "GREEN_DOME": {
+        "NAME": "Green Dome",
+        "HEATING": "<strong>Încălzire:</strong> Încălzire pe gaz cu termostat inteligent.",
+        "TERRACE": "<strong>Terasă & Grătar:</strong> Terasă mică, foișor dedicat și grătar din piatră. Adu propriile cărbuni pentru grătar; furnizăm lemne și brichete pentru aprinderea focului."
+      }
+    }
+  },
+  "SERVICES": {
+    "TITLE": "Servicii Adiționale",
+    "SUBTITLE": "Aici poți găsi câteva servicii adiționale pe care le putem oferi în timpul sejurului tău.",
+    "OFFROAD": {
+      "TITLE": "Aventură Offroad cu Suzuki Samurai-ul Nostru",
+      "INTRO": "Cauți o experiență offroad locală plină de distracție, priveliști și aventură? Alătură-te nouă pentru o plimbare de neuitat în clasicul nostru Suzuki Samurai din 1995 — o adevărată legendă offroad! Avem 3 locuri disponibile și suntem bucuroși să oprim oricând pentru poze sau să ne bucurăm de peisaj.",
+      "ROUTE1": {
+        "TITLE": "Ruta 1 — \"Exploratorul Dealului\"",
+        "INFO": "Distanță: ~5 km | Durată: ~1 oră | Preț: €40",
+        "DESCRIPTION": "Pornind de la cazarea noastră, vom conduce printr-o vale liniștită, vom urca la un deal pitoresc cu priveliști peste zona Bran, apoi vom merge de-a lungul crestei cu vedere spre Râșnov și Brașov înainte de a ne întoarce. Aceasta este o trasă offroad ușoară-medie, perfectă pentru familii și copii suficient de mari pentru a sta în siguranță într-un scaun auto."
+      },
+      "ROUTE2": {
+        "TITLE": "Ruta 2 — \"Aventură pe Traseu Montan\"",
+        "INFO": "Distanță: ~15 km | Durată: ~2 ore | Preț: €80",
+        "DESCRIPTION": "O rută mai extinsă care urmează părți din traseul Via Transilvanica. Vom explora drumuri vechi de căruță, vom admira frumoasa zonă rurală din Bran, vom conduce aproape de poalele munților și apoi ne vom întoarce la punctul de plecare. Aceasta este o excursie offroad de dificultate medie — nu este recomandată pentru copii mici."
+      },
+      "CONDITIONS": {
+        "TITLE": "Note & Condiții",
+        "BOOKING": "Excursiile depind de vreme și disponibilitate — te rugăm să rezervi sau să confirmi cu cel puțin 2 zile înainte.",
+        "WEATHER": "Tururile pot fi anulate sau reprogramate din cauza vremii sau a condițiilor de acces pe drum.",
+        "CLOTHING": "Te rugăm să porți îmbrăcăminte și încălțăminte adecvate pentru exterior.",
+        "MECHANICAL": "În cazul rar al unei probleme mecanice, ar putea fi necesar să continuăm o parte din traseu pe jos."
+      }
+    },
+    "ADDITIONAL": {
+      "TITLE": "Servicii Adiționale",
+      "DESCRIPTION": "Aici poți găsi câteva servicii adiționale pe care le putem oferi în timpul sejurului tău."
+    },
+    "CHECKIN": {
+      "TITLE": "Check-in Timpuriu / Check-out Întârziat",
+      "NORMAL_HOURS": "Check-in-ul normal este de la <strong>15:00</strong> iar check-out-ul este până la <strong>11:00</strong>. Folosim acest interval pentru a pregăti locul pentru tine și pentru următorii oaspeți, așa că este foarte important să respectăm acest program.",
+      "AVAILABILITY": "Totuși, dacă nu avem oaspeți cu o noapte înainte sau după sejurul tău, am putea oferi:",
+      "EARLY": "<strong>Check-in Timpuriu:</strong> Începând de la 10:00 AM. <strong>Preț:</strong> 20 Euro / 100 Lei",
+      "LATE": "<strong>Check-out Întârziat:</strong> Până la 18:00 PM. <strong>Preț:</strong> 20 Euro / 100 Lei",
+      "INSTRUCTIONS": "Dacă dorești unul dintre aceste servicii, te rugăm să ne contactezi înainte de sosire și să ne spui pe care îl vrei. Vom confirma dacă este posibil și îți vom trimite detaliile de plată. <strong>Plata pentru aceste servicii se face în avans.</strong>"
+    },
+    "FIREPLACE": {
+      "TITLE": "Șemineu în Aer Liber",
+      "INTRO": "Dacă dorești să faci un foc de tabără mic afară, putem să îți oferim tot ce ai nevoie:",
+      "INCLUDES": {
+        "FIREPIT": "Un vas de foc portabil din metal",
+        "CHAIRS": "Scaune de exterior pentru a sta în jurul focului",
+        "WOOD": "O cutie (30 x 40 cm) plină cu bucăți de lemn (durează aproximativ 2 ore)",
+        "TOOLS": "Unelte pentru a aprinde focul"
+      },
+      "PRICE": "<strong>Preț:</strong> 10 Euro / cutie de lemne",
+      "WARNING": "* Vasul de foc nu trebuie plasat lângă cabană sau copaci."
+    }
+  },
+  "EXPLORE": {
+    "TITLE": "Explorează Împrejurimile",
+    "SUBTITLE": "Descoperă frumoasele împrejurimi, atracții și activități aproape de cazările noastre. Această prezintă ghiduri detaliate, hărți și recomandări pentru a profita la maximum de sejurul tău.",
+    "LOCAL": {
+      "TITLE": "Împrejurimile Locale",
+      "DESCRIPTION_1": "Cazările noastre sunt situate într-un cartier frumos și liniștit format din case de vacanță și reședințe private, înconjurat de natură și liniște. Suntem la doar 6 km distanță de orașul Râșnov, oferind acces ușor la atracțiile locale, asigurând în același timp un refugiu relaxant departe de agitație.",
+      "DESCRIPTION_2": "Te rugăm să notezi: Cazările sunt situate pe proprietăți private separate, așa că nu există posibilitatea de a merge între ele. Fiecare proprietate oferă propriul farmec și intimitate unică, asigurând o experiență confortabilă și exclusivă pentru fiecare oaspete."
+    },
+    "RASNOV": {
+      "TITLE": "Împrejurimile Râșnov",
+      "DESCRIPTION": "Râșnov este situat într-o locație minunată, înconjurat de maiestuoșii Munți Carpați. Zona este renumită pentru frumusețea sa naturală și este aproape de unele dintre cele mai faimoase destinații turistice din România, inclusiv Predeal, Bran, Poiana Brașov și Brașov. Fie că iubești aventurile montane sau explorarea orașelor fermecătoare, Râșnov este baza perfectă pentru călătoria ta."
+    }
+  },
+  "GIFTS": {
+    "TITLE": "Trimite Cadoul Perfect",
+    "SUBTITLE": "Oferă cadoul unor momente de neuitat cu un voucher personalizat pentru una dintre locațiile noastre unice. Alege dintre o varietate de opțiuni de e-voucher pentru a se potrivi bugetului tău și a face sejurul cuiva cu adevărat special.",
+    "VOUCHER_OPTIONS": {
+      "TITLE": "Opțiuni Voucher",
+      "ONE_NIGHT": "<strong>Cadou O Noapte:</strong> Acoperă prima noapte a unui sejur la locația noastră. Beneficiarul poate prelungi vizita plătind pentru nopți suplimentare (sejurul minim este de 2 nopți).",
+      "COMPLETE_STAY": "<strong>Sejur Complet:</strong> Oferă un sejur complet de 2, 3, 4 sau 5 nopți la locația noastră.",
+      "PRICE_GIFT": "<strong>Cadou Valoare:</strong> Oferă o reducere de 100, 200, 300, 400 sau 500 lei la cazarea la locația noastră."
+    },
+    "IMPORTANT_INFO": {
+      "TITLE": "Informații Importante",
+      "VALIDITY": "Fiecare voucher este valabil 6 luni de la data emiterii.",
+      "PERSONALIZATION": "Voucherele pot fi personalizate cu numele destinatarului și un mesaj personalizat.",
+      "LIMITS": "<strong>Limite cazare:</strong> Te rugăm să iei în considerare numărul probabil de oaspeți când comanzi un voucher. Rezervările nu trebuie să depășească capacitatea maximă pentru fiecare cazare.",
+      "DEPOSIT": "Voucherul va fi folosit ca depozit de către beneficiar când face o rezervare."
+    },
+    "FORM": {
+      "TITLE": "Solicită un Voucher",
+      "VOUCHER_TYPE": "Tip Voucher",
+      "SELECT_TYPE": "Selectează tipul...",
+      "ONE_NIGHT": "Cadou O Noapte",
+      "COMPLETE_STAY": "Sejur Complet",
+      "PRICE_GIFT": "Cadou Valoare",
+      "NIGHTS": "Număr de Nopți",
+      "SELECT_NIGHTS": "Selectează nopțile...",
+      "PRICE": "Valoare Cadou (lei)",
+      "SELECT_PRICE": "Selectează valoarea...",
+      "ACCOMMODATION": "Cazare",
+      "SELECT_ACCOMMODATION": "Selectează cazarea...",
+      "RECIPIENT": "Nume Destinatar",
+      "MESSAGE": "Mesaj Personalizat"
+    }
+  },
+  "ACCOMMODATIONS_DETAILS": {
+    "PIECE_OF_HEAVEN": {
+      "SUBTITLE": "",
+      "DESCRIPTION_KEY": "piece-of-heaven-desc",
+      "NOTES": [
+        "Check-in începând cu ora 15:00 și Check-out până la ora 11:00",
+        "Fără muzică afară și fără invitați externi",
+        "Suntem la 6 km în afara Râșnovului, 1 km drum neasfaltat",
+        "Nu este potrivit pentru copii și animale de companie",
+        "Fumatul doar în exterior",
+        "Doi câini prietenosi Bernes pe proprietate",
+        "Suprafața: 15 metri pătrați și patul are dimensiuni personalizate de aproximativ 140 cm lățime",
+        "Accesul se face prin grădina noastră din față unde locuim"
+      ]
+    },
+    "PIECE_OF_DREAM": {
+      "SUBTITLE": "",
+      "DESCRIPTION_KEY": "piece-of-dream-desc",
+      "NOTES": [
+        "Check-in începând cu ora 15:00 și Check-out până la ora 11:00",
+        "Fără muzică afară și fără invitați externi",
+        "Suntem la 6 km în afara Râșnovului, 1 km drum neasfaltat",
+        "Nu este potrivit pentru animale de companie",
+        "Fumatul doar în exterior",
+        "Doi câini prietenosi Bernes pe proprietate",
+        "Accesul se face prin grădina noastră din față unde locuim"
+      ]
+    },
+    "GUITAR_HOUSE": {
+      "SUBTITLE": "",
+      "DESCRIPTION_KEY": "guitar-house-desc",
+      "NOTES": [
+        "Check-in începând cu ora 15:00 și Check-out până la ora 11:00",
+        "Fără muzică afară și fără invitați externi",
+        "Suntem la 6 km în afara Râșnovului, 1 km drum neasfaltat",
+        "Locul are aproximativ 18 metri pătrați, este o casă mică cu 2 paturi deasupra zonei de zi",
+        "Nu sunt permise animale de companie"
+      ]
+    },
+    "GREEN_DOME": {
+      "SUBTITLE": "",
+      "DESCRIPTION_KEY": "green-dome-desc",
+      "NOTES": [
+        "Check-in începând cu ora 15:00 și Check-out până la ora 11:00",
+        "Fără muzică afară și fără invitați externi",
+        "Suntem la 6 km în afara Râșnovului, 1 km drum neasfaltat"
+      ]
+    },
+    "BRICKS_AND_JOY": {
+      "SUBTITLE": "",
+      "DESCRIPTION_KEY": "bricks-and-joy-desc",
+      "NOTES": [
+        "Check-in începând cu ora 15:00 și Check-out până la ora 11:00",
+        "Fără muzică afară și fără invitați externi",
+        "Suntem la 6 km în afara Râșnovului, 1 km drum neasfaltat",
+        "Nu sunt permise animale de companie",
+        "Max 2 adulți + copii. Casa are un singur pat"
+      ]
+    }
+  }
+}

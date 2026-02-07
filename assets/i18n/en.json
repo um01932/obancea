@@ -1,0 +1,344 @@
+{
+  "NAV": {
+    "ACCOMMODATIONS": "Accommodations",
+    "ACTIVITIES": "Explore Local Activities",
+    "EXPLORE": "Explore Surroundings",
+    "GIFTS": "Gifts",
+    "CONTACT": "Contact & Book",
+    "WHATSAPP": "WhatsApp +40748155997"
+  },
+  "COMMON": {
+    "CAPACITY": "Capacity",
+    "PRICE_PER_NIGHT": "Price / night",
+    "WEEKDAYS": "Weekdays",
+    "WEEKENDS": "Weekends",
+    "VIEW_ALL_PHOTOS": "View All Photos",
+    "AVAILABILITY_CALENDAR": "Availability Calendar",
+    "PROPERTY_DETAILS": "Property Details",
+    "IMPORTANT_NOTES": "Important Notes",
+    "GUEST_REVIEWS": "Guest Reviews",
+    "SHOW_LESS": "Show Less",
+    "SHOW_ALL_REVIEWS": "Show All {{count}} Reviews",
+    "CHECK_ON_AIRBNB": "Check on Airbnb",
+    "BOOK_WITH_US": "Book with Us",
+    "CHECK_AIRBNB": "Check us on Airbnb",
+    "BUTTONS": {
+      "BOOK_NOW": "Book Now",
+      "BOOK_WITH_US": "Book with Us",
+      "SHOW_DETAILS": "Show Details",
+      "CHECK_AIRBNB": "Check us on Airbnb",
+      "VIEW_ALL": "Show All Activities",
+      "VISIT_WEBSITE": "Visit Website",
+      "DIRECTIONS": "Directions",
+      "SEND_WHATSAPP": "Send WhatsApp Message",
+      "REQUEST_VOUCHER": "Request Voucher via WhatsApp"
+    },
+    "LOADING": {
+      "IMAGE": "Loading image...",
+      "ACTIVITIES": "Loading amazing activities...",
+      "PLEASE_WAIT": "Loading activities..."
+    },
+    "ICONS": {
+      "HOME": "Home",
+      "GIFT": "Gift",
+      "MAP": "Map"
+    }
+  },
+  "HOME": {
+    "TITLE": "Unique Accommodations",
+    "LOCATION": "📍 Râșnov, Brașov, Romania",
+    "SUBTITLE": "Discover your perfect getaway"
+  },
+  "ACCOMMODATION_LIST": {
+    "TITLE": "Unique Accommodations",
+    "LOCATION": "📍 Râșnov, Brașov, Romania",
+    "MAX_CAPACITY": "Max capacity:",
+    "PET_FRIENDLY": "Pet Friendly:",
+    "YES": "Yes",
+    "NO": "No",
+    "PRICE_PER_NIGHT": "Price / night:",
+    "WEEKDAYS": "Weekdays:",
+    "WEEKENDS": "Weekends:"
+  },
+  "ACTIVITIES": {
+    "TITLE": "🏔️ Activities & Adventures",
+    "LOCATION": "📍 Râșnov, Brașov & Surrounding Areas",
+    "SUBTITLE": "Discover amazing activities and adventures in the heart of Romania's Carpathian Mountains",
+    "FILTER": {
+      "ALL": "All Activities",
+      "CATEGORIES": "Categories"
+    },
+    "NO_RESULTS": {
+      "TITLE": "No activities found",
+      "MESSAGE": "Try selecting a different category or view all activities."
+    },
+    "DETAILS": {
+      "DURATION": "Duration:",
+      "DISTANCE": "Distance:",
+      "LOCATION": "Location:",
+      "PRICE": "Price:",
+      "CONTACT": "Contact:",
+      "TAGS": "Tags"
+    }
+  },
+  "CONTACT": {
+    "TITLE": "📞 Contact Us",
+    "SUBTITLE": "Ready to book your perfect getaway? Fill out the form below and we'll prepare your WhatsApp message!",
+    "FORM": {
+      "ACCOMMODATION_LABEL": "Choose Your Accommodation",
+      "ACCOMMODATION_PLACEHOLDER": "Select an accommodation...",
+      "ACCOMMODATION_REQUIRED": "Please select an accommodation.",
+      "ACCOMMODATION_SELECTED": "Great choice! You've selected this accommodation for booking.",
+      "GUESTS_LABEL": "Number of Guests",
+      "GUESTS_MAX": "(Max: {{max}})",
+      "GUESTS_REQUIRED": "Please enter a valid number of guests (1-{{max}}).",
+      "GUESTS_INFO": "Maximum capacity for selected accommodation: {{max}} guests",
+      "DATES_LABEL": "Select Your Dates",
+      "SELECT_ACCOMMODATION_FIRST": "Please select an accommodation above to view available dates",
+      "MINIMUM_STAY_INFO": "<strong>Minimum stay:</strong> 2 nights required. Click on available dates to select your stay.",
+      "ERROR_PAST_DATE": "Check-in date cannot be in the past.",
+      "ERROR_DATE_ORDER": "Check-out date must be after check-in date.",
+      "ERROR_MINIMUM_STAY": "Minimum stay is 2 nights.",
+      "MESSAGE_LABEL": "Additional Message (Optional)",
+      "MESSAGE_PLACEHOLDER": "Any special requests or questions?",
+      "PREVIEW": "Message Preview",
+      "NOTES_TITLE": "Notes",
+      "ACKNOWLEDGE_NOTES": "I have read and acknowledge all the Notes",
+      "ACKNOWLEDGE_REQUIRED": "You must acknowledge the Notes to proceed with booking.",
+      "SEND_WHATSAPP": "Send WhatsApp Message",
+      "FILL_REQUIRED": "Please fill all required fields",
+      "INQUIRIES_INFO": "For inquiries and questions, please WhatsApp us at"
+    },
+    "DEPOSIT": {
+      "TITLE": "Booking & Deposit Information",
+      "MESSAGE": "<strong>A deposit of minimum one night price will be required to confirm the reservation if you decide to book directly with us.</strong> In case of cancellation, this deposit will not be refunded.",
+      "PAYMENT_INFO": "<strong>Payment options will be sent on WhatsApp after booking details are established.</strong>",
+      "MIN_NIGHTS": "<strong>Min nights for reservation: 2</strong>"
+    },
+    "FOOTER": {
+      "WHATSAPP_TITLE": "WhatsApp Direct Contact"
+    }
+  },
+  "CHECKIN": {
+    "TITLE": "Things to Know When Staying at Our Place",
+    "SUBTITLE": "We want your stay to be as smooth and enjoyable as possible. Please review the important details below regarding check-in, house rules, and how to use various amenities.",
+    "LOCATION": {
+      "TITLE": "Location & Directions",
+      "MESSAGE": "We recommend using one of the following GPS solutions to easily reach us. Click the links for the exact itinerary:",
+      "WAZE": "Waze Directions",
+      "GOOGLE": "Google Maps Directions"
+    },
+    "CHECKIN_CHECKOUT": {
+      "TITLE": "Check-in & Check-out",
+      "CHECKIN": "Check-in: from 15:00 PM",
+      "CHECKOUT": "Check-out: until 11:00 AM",
+      "ARRIVAL_TIME": "Please let us know your approximate arrival time on check-in day so we can prepare accordingly.",
+      "INSTRUCTIONS": "For Piece of Heaven and Piece of Dream, we will meet you at check-in. For other accommodations, you will receive self check-in instructions.",
+      "NO_MUSIC": "No music outside and no external guests allowed."
+    },
+    "SHOPPING": {
+      "TITLE": "Shopping & Supplies",
+      "MESSAGE": "There are no stores nearby. Please do your shopping in Râșnov or on your way to us.",
+      "FORM": "In the cabin you will find an accommodation form, please fill it out, it is required by law."
+    },
+    "HEATING": {
+      "TITLE": "Heating",
+      "MESSAGE": "The cabin has electric floor heating with smart thermostat."
+    },
+    "WATER": {
+      "TITLE": "Water",
+      "MESSAGE": "Our water comes from natural springs and is drinkable according to official tests. See the analysis results below. If you are sensitive to certain parameters, please use bottled water."
+    },
+    "WIFI": {
+      "TITLE": "Wifi password:",
+      "PASSWORD": "abcde12345"
+    },
+    "PARTICULARITIES": {
+      "TITLE": "Accommodation Particularities",
+      "PIECE_OF_HEAVEN": {
+        "NAME": "Piece of Heaven",
+        "HEATING": "<strong>Heating:</strong> Electric floor heating with smart thermostat. In very cold weather, use the provided classic wood fireplace. Always use caution, as the house is made of wood. Only use the wood and fire briquettes provided. Never place anything on or near the fireplace.",
+        "FIREPLACE_USE": "<strong>Fireplace Use:</strong>",
+        "FIREPLACE_STEP1": "Place 2 fire briquettes in the fireplace and light them.",
+        "FIREPLACE_STEP2": "Add 3-4 small wood pieces and 2-3 larger ones on top.",
+        "FIREPLACE_STEP3": "Ensure the fire from the briquettes reaches the wood, then close the fireplace door.",
+        "FIREPLACE_STEP4": "Add larger wood pieces as needed to keep the fire going.",
+        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. Bring your own coals for the grill; we provide wood and briquettes to start the fire.",
+        "SHOWER": "<strong>Shower Water:</strong> Single on/off tap, temperature preset to 38°C.",
+        "DOGS": "<strong>Our Dogs:</strong> Please do not feed them (except dog treats). Do not let dogs or cats inside. Keep the small gate closed so dogs do not reach the parking area."
+      },
+      "PIECE_OF_DREAM": {
+        "NAME": "Piece of Dream",
+        "FIREPLACE": "<strong>Fireplace:</strong> Automated wood pellet fireplace. Only use the thermostat to control it. Do not open the fireplace door except for cleaning/maintenance. Do not place anything on or near the fireplace. Do not use the console or change settings.",
+        "FILLING": "<strong>Filling the Fireplace:</strong> Fill with wood pellets every 2-3 days (or as needed) only when cold. Pellets are stored in a special compartment on the terrace.",
+        "TERRACE": "<strong>Terrace & Grill:</strong> Relax or grill on the terrace using the gas grill. Use caution with fire and when smoking, as the cabin is made of wood.",
+        "DOGS": "<strong>Our Dogs:</strong> Please do not feed them (except dog treats). Do not let dogs or cats inside. Keep the small gate closed so dogs do not reach the parking area."
+      },
+      "GUITAR_HOUSE": {
+        "NAME": "Guitar House",
+        "HEATING": "<strong>Heating:</strong> Electric floor heating with smart thermostat. The air conditioner can also be used to provide heating.",
+        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. Bring your own coals for the grill; we provide wood and briquettes to start the fire."
+      },
+      "GREEN_DOME": {
+        "NAME": "Green Dome",
+        "HEATING": "<strong>Heating:</strong> Gas heating with smart thermostat.",
+        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. Bring your own coals for the grill; we provide wood and briquettes to start the fire."
+      }
+    }
+  },
+  "SERVICES": {
+    "TITLE": "Additional Services",
+    "SUBTITLE": "Here you can find some additional services that we can provide during your stay.",
+    "OFFROAD": {
+      "TITLE": "Offroad Adventure with Our Suzuki Samurai",
+      "INTRO": "Looking for a local offroad experience full of fun, views, and adventure? Join us for an unforgettable ride in our classic 1995 Suzuki Samurai — a true offroad legend! We have 3 available seats, and we're happy to stop anytime for photos or to enjoy the scenery.",
+      "ROUTE1": {
+        "TITLE": "Route 1 — \"Hilltop Explorer\"",
+        "INFO": "Distance: ~5 km | Duration: ~1 hour | Price: €40",
+        "DESCRIPTION": "Starting from our accommodation, we'll drive through a peaceful valley, climb to a scenic hilltop with views over the Bran area, then ride along the ridge overlooking Râșnov and Brașov before returning. This is an easy to medium offroad trail, perfect for families and children old enough to sit safely in a car seat."
+      },
+      "ROUTE2": {
+        "TITLE": "Route 2 — \"Mountain Trail Adventure\"",
+        "INFO": "Distance: ~15 km | Duration: ~2 hours | Price: €80",
+        "DESCRIPTION": "A more extended route following parts of the Via Transilvanica trail. We'll explore old cart paths, admire the beautiful Bran countryside, drive near the mountain foothills, and then return to our starting point. This is a medium-difficulty offroad trip — not recommended for small children."
+      },
+      "CONDITIONS": {
+        "TITLE": "Notes & Conditions",
+        "BOOKING": "Trips depend on weather and availability — please book or confirm at least 2 days in advance.",
+        "WEATHER": "Tours may be canceled or rescheduled due to weather or road access conditions.",
+        "CLOTHING": "Please wear suitable outdoor clothing and footwear.",
+        "MECHANICAL": "In the rare case of a mechanical issue, we may need to continue part of the route on foot."
+      }
+    },
+    "ADDITIONAL": {
+      "TITLE": "Additional Services",
+      "DESCRIPTION": "Here you can find some additional services that we can provide during your stay."
+    },
+    "CHECKIN": {
+      "TITLE": "Early Check-in / Late Check-out",
+      "NORMAL_HOURS": "Normal check-in is from <strong>15:00</strong> and check-out is until <strong>11:00</strong>. We use this interval to prepare the place for you and for the next guests, so it is very important to respect this schedule.",
+      "AVAILABILITY": "However, if we do not have guests one night before or after your stay, we may be able to offer:",
+      "EARLY": "<strong>Early Check-in:</strong> Starting from 10:00 AM. <strong>Price:</strong> 20 Euros / 100 Lei",
+      "LATE": "<strong>Late Check-out:</strong> Until 18:00 PM. <strong>Price:</strong> 20 Euros / 100 Lei",
+      "INSTRUCTIONS": "If you want one of these services, please contact us before your arrival and let us know which one you want. We will confirm if it is possible and send you the payment details. <strong>Payment for these services is done upfront.</strong>"
+    },
+    "FIREPLACE": {
+      "TITLE": "Outdoor Fireplace",
+      "INTRO": "If you wish to have a small campfire outside, we can provide you with everything you need:",
+      "INCLUDES": {
+        "FIREPIT": "One portable metal firepit",
+        "CHAIRS": "Outdoor chairs to sit around the fire",
+        "WOOD": "One box (30 x 40 cm) full of wood pieces (lasts about 2 hours)",
+        "TOOLS": "Tools to start the fire"
+      },
+      "PRICE": "<strong>Price:</strong> 10 Euros / box of wood",
+      "WARNING": "* The firepit must not be placed near the cabin or the trees."
+    }
+  },
+  "EXPLORE": {
+    "TITLE": "Explore Surroundings",
+    "SUBTITLE": "Discover the beautiful surroundings, attractions, and activities near our accommodations. This page will feature detailed guides, maps, and recommendations for making the most of your stay.",
+    "LOCAL": {
+      "TITLE": "Local Surroundings",
+      "DESCRIPTION_1": "Our accommodations are located in a beautiful, peaceful neighborhood made up of vacation homes and private residences, surrounded by nature and tranquility. We are just 6 km away from the town of Râșnov, offering easy access to local attractions while providing a relaxing retreat away from the bustle.",
+      "DESCRIPTION_2": "Please note: The accommodations are situated on separate private properties, so there is no possibility to walk between them. Each property offers its own unique charm and privacy, ensuring a comfortable and exclusive experience for every guest."
+    },
+    "RASNOV": {
+      "TITLE": "Râșnov Surroundings",
+      "DESCRIPTION": "Râșnov is set in a wonderful location, surrounded by the majestic Carpathian Mountains. The area is renowned for its natural beauty and is close to some of Romania's most famous tourist destinations, including Predeal, Bran, Poiana Brașov, and Brașov. Whether you love mountain adventures or exploring charming towns, Râșnov is the perfect base for your journey."
+    }
+  },
+  "GIFTS": {
+    "TITLE": "Send the Perfect Gift",
+    "SUBTITLE": "Give the gift of unforgettable moments with a personalized voucher for one of our unique locations. Choose from a variety of e-voucher options to suit your budget and make someone's stay truly special.",
+    "VOUCHER_OPTIONS": {
+      "TITLE": "Voucher Options",
+      "ONE_NIGHT": "<strong>One Night Gift:</strong> Covers the first night of a stay at our location. The beneficiary can extend their visit by paying for additional nights (minimum stay is 2 nights).",
+      "COMPLETE_STAY": "<strong>Complete Stay:</strong> Offers a full stay of 2, 3, 4, or 5 nights at our location.",
+      "PRICE_GIFT": "<strong>Price Gift:</strong> Provides a discount of 100, 200, 300, 400, or 500 lei towards accommodation at our location."
+    },
+    "IMPORTANT_INFO": {
+      "TITLE": "Important Information",
+      "VALIDITY": "Each voucher is valid for 6 months from the date of issue.",
+      "PERSONALIZATION": "Vouchers can be personalized with the recipient's name and a custom message.",
+      "LIMITS": "<strong>Accommodation limits:</strong> Please consider the likely number of guests when ordering a voucher. Bookings must not exceed the maximum occupancy for each accommodation.",
+      "DEPOSIT": "The voucher will be used as a deposit by the beneficiary when making a reservation."
+    },
+    "FORM": {
+      "TITLE": "Request a Voucher",
+      "VOUCHER_TYPE": "Voucher Type",
+      "SELECT_TYPE": "Select type...",
+      "ONE_NIGHT": "One Night Gift",
+      "COMPLETE_STAY": "Complete Stay",
+      "PRICE_GIFT": "Price Gift",
+      "NIGHTS": "Number of Nights",
+      "SELECT_NIGHTS": "Select nights...",
+      "PRICE": "Gift Value (lei)",
+      "SELECT_PRICE": "Select value...",
+      "ACCOMMODATION": "Accommodation",
+      "SELECT_ACCOMMODATION": "Select accommodation...",
+      "RECIPIENT": "Recipient Name",
+      "MESSAGE": "Custom Message"
+    }
+  },
+  "ACCOMMODATIONS_DETAILS": {
+    "PIECE_OF_HEAVEN": {
+      "SUBTITLE": "",
+      "DESCRIPTION_KEY": "piece-of-heaven-desc",
+      "NOTES": [
+        "Check-in starting with 15:00 PM and Check-out until 11:00 AM",
+        "No music outside and No external guests allowed",
+        "We are 6 km outside Râșnov, 1 km unpaved road",
+        "Not suitable for children and pets",
+        "Smoking only outside",
+        "Two friendly Bernese mountain dogs on the property",
+        "Area: 15 square meters and the bed is custom size around 140 cm width",
+        "Access is done via our front garden where we live"
+      ]
+    },
+    "PIECE_OF_DREAM": {
+      "SUBTITLE": "",
+      "DESCRIPTION_KEY": "piece-of-dream-desc",
+      "NOTES": [
+        "Check-in starting with 15:00 PM and Check-out until 11:00 AM",
+        "No music outside and No external guests allowed",
+        "We are 6 km outside Râșnov, 1 km unpaved road",
+        "Not suitable for pets",
+        "Smoking only outside",
+        "Two friendly Bernese mountain dogs on the property",
+        "Access is done via our front garden where we live"
+      ]
+    },
+    "GUITAR_HOUSE": {
+      "SUBTITLE": "",
+      "DESCRIPTION_KEY": "guitar-house-desc",
+      "NOTES": [
+        "Check-in starting with 15:00 PM and Check-out until 11:00 AM",
+        "No music outside and No external guests allowed",
+        "We are 6 km outside Râșnov, 1 km unpaved road",
+        "The place has about 18 square meters, it is a tiny house with 2 beds above the living area",
+        "No pets allowed"
+      ]
+    },
+    "GREEN_DOME": {
+      "SUBTITLE": "",
+      "DESCRIPTION_KEY": "green-dome-desc",
+      "NOTES": [
+        "Check-in starting with 15:00 PM and Check-out until 11:00 AM",
+        "No music outside and No external guests allowed",
+        "We are 6 km outside Râșnov, 1 km unpaved road"
+      ]
+    },
+    "BRICKS_AND_JOY": {
+      "SUBTITLE": "A house like never seen before, dedicated to families with children or the child within you",
+      "DESCRIPTION_KEY": "bricks-and-joy-desc",
+      "NOTES": [
+        "Check-in starting with 15:00 PM and Check-out until 11:00 AM",
+        "No music outside and No external guests allowed",
+        "We are 6 km outside Râșnov, 1 km unpaved road",
+        "No pets allowed",
+        "Max 2 adults + childrens. The house has a single bed"
+      ]
+    }
+  }
+}
