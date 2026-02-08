@@ -9,6 +9,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -21,6 +23,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodations?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/accommodations?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/accommodations?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/accommodations?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/accommodations?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodations"/>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -33,6 +37,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodation/piece-of-heaven?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/accommodation/piece-of-heaven?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/accommodation/piece-of-heaven?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/accommodation/piece-of-heaven?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/accommodation/piece-of-heaven?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodation/piece-of-heaven"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -45,6 +51,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodation/piece-of-dream?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/accommodation/piece-of-dream?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/accommodation/piece-of-dream?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/accommodation/piece-of-dream?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/accommodation/piece-of-dream?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodation/piece-of-dream"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -57,6 +65,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodation/guitar-house?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/accommodation/guitar-house?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/accommodation/guitar-house?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/accommodation/guitar-house?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/accommodation/guitar-house?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodation/guitar-house"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -69,6 +79,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodation/green-dome?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/accommodation/green-dome?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/accommodation/green-dome?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/accommodation/green-dome?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/accommodation/green-dome?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodation/green-dome"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -81,6 +93,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/accommodation/bricks-and-joy?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/accommodation/bricks-and-joy?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/accommodation/bricks-and-joy?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/accommodation/bricks-and-joy?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/accommodation/bricks-and-joy?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/accommodation/bricks-and-joy"/>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -93,6 +107,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/activities?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/activities?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/activities?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/activities?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/activities?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/activities"/>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -105,6 +121,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/explore?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/explore?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/explore?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/explore?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/explore?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/explore"/>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -117,6 +135,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/contact?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/contact?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/contact?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/contact?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/contact?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/contact"/>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
@@ -129,6 +149,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/gifts?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/gifts?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/gifts?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/gifts?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/gifts?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/gifts"/>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
@@ -141,6 +163,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/services?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/services?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/services?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/services?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/services?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/services"/>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -153,6 +177,8 @@
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.obancea.com/checkin?lang=ro"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.obancea.com/checkin?lang=de"/>
     <xhtml:link rel="alternate" hreflang="he" href="https://www.obancea.com/checkin?lang=he"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://www.obancea.com/checkin?lang=el"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://www.obancea.com/checkin?lang=uk"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.obancea.com/checkin"/>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
