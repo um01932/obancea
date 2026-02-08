@@ -44,6 +44,17 @@
     "CTA_SUBTITLE": "הזמן את השהות שלך עוד היום וגלה את הקסם של ראשנוב",
     "CTA_BUTTON": "חקור אירוחים"
   },
+  "ACCOMMODATION_LIST": {
+    "TITLE": "מקומות לינה ייחודיים",
+    "LOCATION": "📍 ראשנוב, ברשוב, רומניה",
+    "MAX_CAPACITY": "קיבולת מרבית:",
+    "PET_FRIENDLY": "ידידותי לחיות מחמד:",
+    "YES": "כן",
+    "NO": "לא",
+    "PRICE_PER_NIGHT": "מחיר / לילה:",
+    "WEEKDAYS": "ימי חול:",
+    "WEEKENDS": "סופי שבוע:"
+  },
   "ACTIVITIES": {
     "TITLE": "פעילויות ואטרקציות",
     "SUBTITLE": "גלה את הטוב ביותר של ראשנוב והסביבה",
