@@ -68,6 +68,16 @@
       "ALL": "All Activities",
       "CATEGORIES": "Categories"
     },
+    "CATEGORIES": {
+      "OUTDOOR": "Outdoor Adventures",
+      "CULTURAL": "Cultural & Historical",
+      "RELAXATION": "Relaxation & Wellness",
+      "FOOD": "Food & Wine",
+      "FAMILY": "Family Friendly",
+      "EXTREME": "Sports",
+      "LOCAL": "Local Experiences",
+      "ROAD_TRIPS": "Road Trips"
+    },
     "NO_RESULTS": {
       "TITLE": "No activities found",
       "MESSAGE": "Try selecting a different category or view all activities."
@@ -147,7 +157,7 @@
     },
     "WATER": {
       "TITLE": "Water",
-      "MESSAGE": "Our water comes from natural springs and is drinkable according to official tests. See the analysis results below. If you are sensitive to certain parameters, please use bottled water."
+      "MESSAGE": "Our water comes from natural springs and is drinkable according to official tests. If you are sensitive to certain parameters, please use bottled water."
     },
     "WIFI": {
       "TITLE": "Wifi password:",
@@ -182,6 +192,11 @@
       "GREEN_DOME": {
         "NAME": "Green Dome",
         "HEATING": "<strong>Heating:</strong> Gas heating with smart thermostat.",
+        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. Bring your own coals for the grill; we provide wood and briquettes to start the fire."
+      },
+      "BRICKS_AND_JOY": {
+        "NAME": "Bricks and Joy",
+        "HEATING": "<strong>Heating:</strong> Electric floor heating with smart thermostat. The air conditioner can also be used to provide heating.",
         "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. Bring your own coals for the grill; we provide wood and briquettes to start the fire."
       }
     }

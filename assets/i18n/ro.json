@@ -67,8 +67,16 @@
     "FILTER": {
       "ALL": "Toate activitățile",
       "CATEGORIES": "Categorii"
-    },
-    "NO_RESULTS": {
+    },    "CATEGORIES": {
+      "OUTDOOR": "Aventuri în aer liber",
+      "CULTURAL": "Cultural & Istoric",
+      "RELAXATION": "Relaxare & Wellness",
+      "FOOD": "Mâncare & Vin",
+      "FAMILY": "Pentru familie",
+      "EXTREME": "Sport",
+      "LOCAL": "Experiențe locale",
+      "ROAD_TRIPS": "Drumeții cu mașina"
+    },    "NO_RESULTS": {
       "TITLE": "Nu s-au găsit activități",
       "MESSAGE": "Încearcă să selectezi o altă categorie sau vezi toate activitățile."
     },
@@ -145,7 +153,7 @@
     },
     "WATER": {
       "TITLE": "Apă",
-      "MESSAGE": "Apa noastră provine din izvoare naturale și este potabilă conform testelor oficiale. Vezi rezultatele analizelor mai jos. Dacă ești sensibil la anumiți parametri, te rugăm să folosești apă îmbuteliată."
+      "MESSAGE": "Apa noastră provine din izvoare naturale și este potabilă conform testelor oficiale. Dacă ești sensibil la anumiți parametri, te rugăm să folosești apă îmbuteliată."
     },
     "WIFI": {
       "TITLE": "Parolă Wifi:",
@@ -180,8 +188,11 @@
       "GREEN_DOME": {
         "NAME": "Green Dome",
         "HEATING": "<strong>Încălzire:</strong> Încălzire pe gaz cu termostat inteligent.",
-        "TERRACE": "<strong>Terasă & Grătar:</strong> Terasă mică, foișor dedicat și grătar din piatră. Adu propriile cărbuni pentru grătar; furnizăm lemne și brichete pentru aprinderea focului."
-      }
+        "TERRACE": "<strong>Terasă & Grătar:</strong> Terasă mică, foișor dedicat și grătar din piatră. Adu propriile cărbuni pentru grătar; furnizăm lemne și brichete pentru aprinderea focului."      },
+      "BRICKS_AND_JOY": {
+        "NAME": "Bricks and Joy",
+        "HEATING": "<strong>Încălzire:</strong> Încălzire electrică în pardoseală cu termostat inteligent. Aerul condiționat poate fi utilizat și pentru încălzire.",
+        "TERRACE": "<strong>Terasă & Grătar:</strong> Terasă mică, foișor dedicat și grătar din piatră. Aduceți propriile cărbuni pentru grătar; noi oferim lemne și brichete pentru a porni focul."      }
     }
   },
   "SERVICES": {
