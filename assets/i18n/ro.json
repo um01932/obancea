@@ -22,6 +22,11 @@
     "CHECK_ON_AIRBNB": "Vezi pe Airbnb",
     "BOOK_WITH_US": "Rezervă cu noi",
     "CHECK_AIRBNB": "Vezi pe Airbnb",
+    "CALENDAR": {
+      "LOADING_AVAILABILITY": "Se încarcă disponibilitatea...",
+      "ERROR_LOAD": "Calendarul nu poate fi încărcat acum. Verifică disponibilitatea pe Airbnb.",
+      "OPEN_AIRBNB_LISTING": "Deschide anunțul pe Airbnb"
+    },
     "BUTTONS": {
       "BOOK_NOW": "Rezervă acum",
       "BOOK_WITH_US": "Rezervă cu noi",

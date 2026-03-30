@@ -22,6 +22,11 @@
     "CHECK_ON_AIRBNB": "Check on Airbnb",
     "BOOK_WITH_US": "Book with Us",
     "CHECK_AIRBNB": "Check us on Airbnb",
+    "CALENDAR": {
+      "LOADING_AVAILABILITY": "Loading availability...",
+      "ERROR_LOAD": "Cannot load calendar right now. Please check availability on Airbnb.",
+      "OPEN_AIRBNB_LISTING": "Open Airbnb listing"
+    },
     "BUTTONS": {
       "BOOK_NOW": "Book Now",
       "BOOK_WITH_US": "Book with Us",

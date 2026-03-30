@@ -22,6 +22,11 @@
     "CHECK_ON_AIRBNB": "Auf Airbnb Prüfen",
     "BOOK_WITH_US": "Bei Uns Buchen",
     "CHECK_AIRBNB": "Auf Airbnb Prüfen",
+    "CALENDAR": {
+      "LOADING_AVAILABILITY": "Verfügbarkeit wird geladen...",
+      "ERROR_LOAD": "Der Kalender kann momentan nicht geladen werden. Bitte prüfen Sie die Verfügbarkeit auf Airbnb.",
+      "OPEN_AIRBNB_LISTING": "Airbnb-Inserat öffnen"
+    },
     "BUTTONS": {
       "BOOK_NOW": "Jetzt Buchen",
       "BOOK_WITH_US": "Bei Uns Buchen",

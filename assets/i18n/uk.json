@@ -22,6 +22,11 @@
     "CHECK_ON_AIRBNB": "Перевірити на Airbnb",
     "BOOK_WITH_US": "Забронюйте у нас",
     "CHECK_AIRBNB": "Перевірте нас на Airbnb",
+    "CALENDAR": {
+      "LOADING_AVAILABILITY": "Завантаження доступності...",
+      "ERROR_LOAD": "Зараз неможливо завантажити календар. Перевірте доступність на Airbnb.",
+      "OPEN_AIRBNB_LISTING": "Відкрити оголошення Airbnb"
+    },
     "BUTTONS": {
       "BOOK_NOW": "Забронювати зараз",
       "BOOK_WITH_US": "Забронюйте у нас",

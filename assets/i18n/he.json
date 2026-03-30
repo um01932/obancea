@@ -25,7 +25,12 @@
     "EDIT": "ערוך",
     "DELETE": "מחק",
     "CONFIRM": "אשר",
-    "WHATSAPP": "שלח הודעת WhatsApp"
+    "WHATSAPP": "שלח הודעת WhatsApp",
+    "CALENDAR": {
+      "LOADING_AVAILABILITY": "טוען זמינות...",
+      "ERROR_LOAD": "לא ניתן לטעון את לוח השנה כרגע. ניתן לבדוק זמינות ב-Airbnb.",
+      "OPEN_AIRBNB_LISTING": "פתח את המודעה ב-Airbnb"
+    }
   },
   "HOME": {
     "TITLE": "ברוכים הבאים לאובנצ'ה",
@@ -54,33 +59,6 @@
     "PRICE_PER_NIGHT": "מחיר / לילה:",
     "WEEKDAYS": "ימי חול:",
     "WEEKENDS": "סופי שבוע:"
-  },
-  "ACTIVITIES": {
-    "TITLE": "פעילויות ואטרקציות",
-    "SUBTITLE": "גלה את הטוב ביותר של ראשנוב והסביבה",
-    "FILTER_ALL": "הכל",
-    "FILTER_RESTAURANTS": "מסעדות",
-    "FILTER_ATTRACTIONS": "אטרקציות",
-    "FILTER_OUTDOOR": "חוץ",
-    "FILTER_CULTURE": "תרבות",
-    "SEARCH_PLACEHOLDER": "חפש פעילויות...",
-    "NO_RESULTS": "לא נמצאו פעילויות",
-    "DISTANCE": "מרחק",
-    "CATEGORY": "קטגוריה",
-    "RESTAURANTS": "מסעדות",
-    "ATTRACTIONS": "אטרקציות",
-    "OUTDOOR": "חוץ",
-    "CULTURE": "תרבות",
-    "ADVENTURE": "הרפתקה",
-    "NATURE": "טבע",
-    "HISTORY": "היסטוריה",
-    "FOOD": "אוכל",
-    "SHOPPING": "קניות",
-    "NIGHTLIFE": "חיי לילה",
-    "WELLNESS": "בריאות",
-    "SKIING": "סקי",
-    "HIKING": "טיולים",
-    "SIGHTSEEING": "סיור"
   },
   "ACTIVITIES": {
     "TITLE": "🏔️ פעילויות והרפתקאות",

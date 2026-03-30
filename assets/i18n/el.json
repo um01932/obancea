@@ -22,6 +22,11 @@
     "CHECK_ON_AIRBNB": "Δείτε στο Airbnb",
     "BOOK_WITH_US": "Κλείστε Μαζί Μας",
     "CHECK_AIRBNB": "Δείτε μας στο Airbnb",
+    "CALENDAR": {
+      "LOADING_AVAILABILITY": "Φόρτωση διαθεσιμότητας...",
+      "ERROR_LOAD": "Δεν είναι δυνατή η φόρτωση του ημερολογίου αυτή τη στιγμή. Ελέγξτε τη διαθεσιμότητα στο Airbnb.",
+      "OPEN_AIRBNB_LISTING": "Άνοιγμα καταχώρισης Airbnb"
+    },
     "BUTTONS": {
       "BOOK_NOW": "Κλείστε Τώρα",
       "BOOK_WITH_US": "Κλείστε Μαζί Μας",
