@@ -203,6 +203,10 @@
   "SERVICES": {
     "TITLE": "Servicii Adiționale",
     "SUBTITLE": "Aici poți găsi câteva servicii adiționale pe care le putem oferi în timpul sejurului tău.",
+    "MINIMARKET": {
+      "TITLE": "Minimarket",
+      "DESCRIPTION": "Pentru confortul dumneavoastră, deoarece suntem situați mai departe de oraș și de magazine, am creat un minimarket accesibil direct din parcarea caselor Piece of Heaven și Piece of Dream. Aici veți găsi băuturi, gustări, produse locale, precum și lemne sau cărbuni pentru grătar."
+    },
     "OFFROAD": {
       "TITLE": "Aventură Offroad cu Suzuki Samurai-ul Nostru",
       "INTRO": "Cauți o experiență offroad locală plină de distracție, priveliști și aventură? Alătură-te nouă pentru o plimbare de neuitat în clasicul nostru Suzuki Samurai din 1995 — o adevărată legendă offroad! Avem 3 locuri disponibile și suntem bucuroși să oprim oricând pentru poze sau să ne bucurăm de peisaj.",

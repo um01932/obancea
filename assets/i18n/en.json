@@ -209,6 +209,10 @@
   "SERVICES": {
     "TITLE": "Additional Services",
     "SUBTITLE": "Here you can find some additional services that we can provide during your stay.",
+    "MINIMARKET": {
+      "TITLE": "Minimarket",
+      "DESCRIPTION": "For your comfort, since we are located farther from the city and shops, we created a minimarket with direct access from the parking area of Piece of Heaven and Piece of Dream. Here you will find drinks, snacks, local products, as well as wood or charcoal for grilling."
+    },
     "OFFROAD": {
       "TITLE": "Offroad Adventure with Our Suzuki Samurai",
       "INTRO": "Looking for a local offroad experience full of fun, views, and adventure? Join us for an unforgettable ride in our classic 1995 Suzuki Samurai — a true offroad legend! We have 3 available seats, and we're happy to stop anytime for photos or to enjoy the scenery.",
