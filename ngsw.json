@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1781268517662,
+  "timestamp": 1782370314284,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.12f92c148a50c330.js",
+        "/main.00d748c62844d829.js",
         "/polyfills.743289f59cabc410.js",
         "/runtime.09e9f890db13bd58.js",
         "/styles.53148ebafb900e9c.css",
-        "/vendor.f973badb7861f516.js"
+        "/vendor.57598b8e9d2d1179.js"
       ],
       "patterns": []
     },
@@ -97,6 +97,7 @@
         "/assets/ValeaPovesti.webp",
         "/assets/Voucher.webp",
         "/assets/WideMap.webp",
+        "/assets/availability.json",
         "/assets/bricksandjoy/image-1.webp",
         "/assets/bricksandjoy/image-10.webp",
         "/assets/bricksandjoy/image-11.webp",
@@ -354,6 +355,7 @@
     "/assets/ValeaPovesti.webp": "61c26894465a3f8bf8f89b96491f1a43d878aa05",
     "/assets/Voucher.webp": "f7c96872884a40017abb26dbebc0390e7f141bef",
     "/assets/WideMap.webp": "5c20edeff6adeff8ff90331d3483db8ec77a6ae4",
+    "/assets/availability.json": "3e9710aa2ec85f7956bf5184569d47bebc672924",
     "/assets/bricksandjoy/image-1.webp": "7e19ce51995fe92d84ee23d25cb4a4dcf6c5a268",
     "/assets/bricksandjoy/image-10.webp": "811874f9fc85e0c6ddf873ab5e5d0b367636f51e",
     "/assets/bricksandjoy/image-11.webp": "a252e95cbcf5ee57958d313067c7b3702d2eb201",
@@ -523,12 +525,12 @@
     "/assets/reviews.json": "fbefb66d6339d49e51972d87e462cfb5d2d3bb59",
     "/assets/zoo.webp": "c84825744ab7fe645a3a6a30e0e7b5156eb5d370",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "6465577dbf0fea93cec128e4eb9a825697a34643",
-    "/main.12f92c148a50c330.js": "d02c89f7afc7abcfcbf238371f28661d2be7f3c2",
+    "/index.html": "3a1d1ab6ac222f5cd5cefea2c33bc7b86ef11e69",
+    "/main.00d748c62844d829.js": "3fc6f21b952c55daaccf0a28d88ae904ac46dab8",
     "/polyfills.743289f59cabc410.js": "a4b225240cca3bf1e01aa41c842d6b31abc1f374",
     "/runtime.09e9f890db13bd58.js": "0d859d483b090f9e51c5c6f507351c27649331dc",
     "/styles.53148ebafb900e9c.css": "51dc88ead0a4a627cab490475c54f68edc4ed73d",
-    "/vendor.f973badb7861f516.js": "c2e415d72a994bce72583fbaf66ac1d50770d255"
+    "/vendor.57598b8e9d2d1179.js": "afe85bb7de3ed26346159dbb1cb18623d81dadc6"
   },
   "navigationUrls": [
     {
