@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-08-18T17:18:29.651Z",
+  "generatedAt": "2026-10-01T10:58:21.246Z",
   "feeds": {
     "https://www.airbnb.com.ro/calendar/ical/37805118.ics?s=dfcc224d9097c795562628d66f0c432e": [
-      {
-        "start": "2026-08-19",
-        "end": "2026-08-21",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-08-24",
-        "end": "2026-08-28",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-09-05",
-        "end": "2026-09-07",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-09-10",
-        "end": "2026-09-13",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-09-18",
-        "end": "2026-09-20",
-        "summary": "Reserved",
-        "status": "booked"
-      },
       {
         "start": "2026-09-28",
         "end": "2026-10-03",
@@ -39,14 +9,26 @@
         "status": "booked"
       },
       {
-        "start": "2026-08-18",
-        "end": "2026-08-19",
-        "summary": "Airbnb (Not available)",
+        "start": "2026-10-15",
+        "end": "2026-10-18",
+        "summary": "Reserved",
         "status": "booked"
       },
       {
-        "start": "2026-08-21",
-        "end": "2026-08-24",
+        "start": "2026-11-05",
+        "end": "2026-11-08",
+        "summary": "Reserved",
+        "status": "booked"
+      },
+      {
+        "start": "2026-11-28",
+        "end": "2026-11-30",
+        "summary": "Reserved",
+        "status": "booked"
+      },
+      {
+        "start": "2026-10-06",
+        "end": "2026-10-10",
         "summary": "Airbnb (Not available)",
         "status": "booked"
       },
@@ -57,59 +39,35 @@
         "status": "booked"
       },
       {
-        "start": "2027-08-13",
-        "end": "2027-08-19",
+        "start": "2026-10-29",
+        "end": "2026-10-30",
+        "summary": "Airbnb (Not available)",
+        "status": "booked"
+      },
+      {
+        "start": "2026-11-11",
+        "end": "2026-11-13",
+        "summary": "Airbnb (Not available)",
+        "status": "booked"
+      },
+      {
+        "start": "2027-09-26",
+        "end": "2027-10-02",
         "summary": "Airbnb (Not available)",
         "status": "booked"
       }
     ],
     "https://www.airbnb.com.ro/calendar/ical/46780486.ics?s=663d51d41a2bc2bf8600344a3a1d0868": [
       {
-        "start": "2026-08-15",
-        "end": "2026-08-17",
+        "start": "2026-10-15",
+        "end": "2026-10-18",
         "summary": "Reserved",
         "status": "booked"
       },
       {
-        "start": "2026-08-19",
-        "end": "2026-08-22",
+        "start": "2026-11-29",
+        "end": "2026-12-01",
         "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-08-24",
-        "end": "2026-08-31",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-09-01",
-        "end": "2026-09-05",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-09-13",
-        "end": "2026-09-20",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-09-26",
-        "end": "2026-09-29",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-08-18",
-        "end": "2026-08-19",
-        "summary": "Airbnb (Not available)",
-        "status": "booked"
-      },
-      {
-        "start": "2026-08-22",
-        "end": "2026-08-24",
-        "summary": "Airbnb (Not available)",
         "status": "booked"
       },
       {
@@ -119,40 +77,16 @@
         "status": "booked"
       },
       {
-        "start": "2027-08-13",
-        "end": "2027-08-19",
+        "start": "2027-09-26",
+        "end": "2027-10-02",
         "summary": "Airbnb (Not available)",
         "status": "booked"
       }
     ],
     "https://www.airbnb.com.ro/calendar/ical/676044415326884478.ics?s=d9e4bef4ad33eaf9e28da38004354860": [
       {
-        "start": "2026-08-18",
-        "end": "2026-08-20",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-08-20",
-        "end": "2026-08-24",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-08-24",
-        "end": "2026-08-28",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-08-28",
-        "end": "2026-08-30",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-08-30",
-        "end": "2026-09-01",
+        "start": "2026-10-03",
+        "end": "2026-10-05",
         "summary": "Reserved",
         "status": "booked"
       },
@@ -163,6 +97,24 @@
         "status": "booked"
       },
       {
+        "start": "2026-10-30",
+        "end": "2026-11-01",
+        "summary": "Reserved",
+        "status": "booked"
+      },
+      {
+        "start": "2027-07-14",
+        "end": "2027-07-16",
+        "summary": "Reserved",
+        "status": "booked"
+      },
+      {
+        "start": "2026-10-01",
+        "end": "2026-10-03",
+        "summary": "Airbnb (Not available)",
+        "status": "booked"
+      },
+      {
         "start": "2026-10-23",
         "end": "2026-10-24",
         "summary": "Airbnb (Not available)",
@@ -170,65 +122,65 @@
       },
       {
         "start": "2026-10-26",
-        "end": "2026-10-27",
+        "end": "2026-10-30",
         "summary": "Airbnb (Not available)",
         "status": "booked"
       },
       {
-        "start": "2027-08-13",
-        "end": "2027-08-19",
+        "start": "2027-09-26",
+        "end": "2027-10-02",
         "summary": "Airbnb (Not available)",
         "status": "booked"
       }
     ],
     "https://www.airbnb.com.ro/calendar/ical/48267503.ics?s=5ea5288517e575cedf4b5b8e0111d6fc": [
       {
-        "start": "2026-08-16",
-        "end": "2026-08-17",
+        "start": "2026-10-01",
+        "end": "2026-10-02",
         "summary": "Airbnb (Not available)",
         "status": "booked"
       },
       {
-        "start": "2026-08-18",
-        "end": "2026-08-19",
+        "start": "2026-10-09",
+        "end": "2026-10-11",
         "summary": "Airbnb (Not available)",
         "status": "booked"
       },
       {
-        "start": "2027-08-13",
-        "end": "2027-08-19",
+        "start": "2026-12-22",
+        "end": "2026-12-28",
+        "summary": "Airbnb (Not available)",
+        "status": "booked"
+      },
+      {
+        "start": "2027-09-26",
+        "end": "2027-10-02",
         "summary": "Airbnb (Not available)",
         "status": "booked"
       }
     ],
     "https://www.airbnb.com.ro/calendar/ical/1535389892607232445.ics?s=5c03e323eef8790267eda973b5673f09": [
       {
-        "start": "2026-08-20",
-        "end": "2026-08-22",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-08-25",
-        "end": "2026-08-27",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-09-25",
-        "end": "2026-09-27",
-        "summary": "Reserved",
-        "status": "booked"
-      },
-      {
-        "start": "2026-08-22",
-        "end": "2026-08-24",
+        "start": "2026-10-03",
+        "end": "2026-10-05",
         "summary": "Airbnb (Not available)",
         "status": "booked"
       },
       {
-        "start": "2027-05-15",
-        "end": "2027-08-19",
+        "start": "2026-10-24",
+        "end": "2026-10-28",
+        "summary": "Airbnb (Not available)",
+        "status": "booked"
+      },
+      {
+        "start": "2026-12-23",
+        "end": "2026-12-27",
+        "summary": "Airbnb (Not available)",
+        "status": "booked"
+      },
+      {
+        "start": "2027-06-28",
+        "end": "2027-10-02",
         "summary": "Airbnb (Not available)",
         "status": "booked"
       }
