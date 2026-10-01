@@ -1,9 +1,165 @@
 [
   {
     "url": "https://airbnb.com/h/piece-of-heaven",
-    "timestamp": "2026-10-01T18:49:55.801Z",
+    "timestamp": "2026-10-01T19:08:47.266Z",
     "generalRating": null,
     "reviews": [
+      {
+        "name": "Lars",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "The place is very nice. It has everything you need and impressive scenery all around. You are immediately immersed in nature and can actually start short walks or hikes directly from the house. The view from the tree house into the trees has something very calming and cozy about it – we really enjoyed the time there."
+      },
+      {
+        "name": "Charleen",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "We stayed at Peace of Heaven for 2 nights and had a great time. The property is very nice and natural. The two dogs are sweet and friendly. The cat also came to visit us from time to time 🥰 If you're looking for something different, it's perfect. Great for relaxing and enjoying nature."
+      },
+      {
+        "name": "Xavier",
+        "stars": 5,
+        "date": "2 weeks ago",
+        "message": "Very warm welcome, their generosity, and exceptional availability and services. I was amazed by the tree house, the beauty of the property and the animals. It was a real childhood dream come true thanks to them. An unforgettable memory of this all-too-short stay. Thank you so much, Madalina and Dragos. My thoughts will always be pleasant when I think of you. I hope to return if possible. Xavier Marseille - France"
+      },
+      {
+        "name": "James",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "Amazing location, beautiful hikes, interesting activities nearby. Thoroughly recommend for a quiet but fun getaway!"
+      },
+      {
+        "name": "Silvia",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "The location is like something out of a fairy tale. Quiet, beautiful scenery."
+      },
+      {
+        "name": "Rohan",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "The treehouse was a unique experience in a beautiful  setting. Highly recommended if you're looking for a relaxing break in peaceful surroundings."
+      },
+      {
+        "name": "Jana",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "The stay was not just a stay but a great experience! You will completely relax there. The accommodation is original and back to basics, but still with a lot of comfort. The host is very friendly; the location is very nice in nature. And finally, the sweet dogs are a real plus, even for people who aren't dog fans (like me). I recommend this to everyone!"
+      },
+      {
+        "name": "Iulian Victor",
+        "stars": 4,
+        "date": "July 2026",
+        "message": "Being a small place, it was really hot. I woke up a few times in the night because of the heat. Also, again, being a small place, the all in one bedroom, bathroom, etc was a bit too much, but ok in the end. The dogs and cats made it all, very lovely. I would go again at that place, but maybe the other acomodations"
+      },
+      {
+        "name": "Robert",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "Extraordinary for a few days of relaxation and away from the hustle and bustle. The place and surroundings are very nice. We really relaxed and had a good time.😊"
+      },
+      {
+        "name": "Daniel",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "A lovely, quiet place with welcoming and friendly hosts. We will definitely come back!"
+      },
+      {
+        "name": "Nikita",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "This is by far the nicest Airbnb I've stayed at. The treehouse is fantastic, and the area is super nice. I slept great there. Dragos's father was there to welcome me and helped me a lot with my luggage despite the heavy rain. The animals are incredibly sweet, and you are greeted enthusiastically when you come home. Definitely recommended to stay here. Contact was very smooth."
+      },
+      {
+        "name": "Savannah Bruna",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "Incredible Airbnb. It was a surprise, and it was greatly appreciated. Clean and functional. The environment is beautiful, the hosts are very kind, and the animals are adorable. Loved our stay. Congratulations to the gentleman on his buildings!"
+      },
+      {
+        "name": "Teodora",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "We wanted to escape the hustle and bustle of the city for a few days, and the location of this cottage immediately caught our attention. It was one of the best choices, a perfect place for peace, relaxation, and recharging batteries. The cottage is tastefully decorated and equipped with everything you need for a comfortable stay. You can see that the hosts have thought of every detail so you don't miss anything. The bed is very comfortable and spacious enough for two people, and the whole atmosphere is welcoming and relaxing. The hosts were kind, friendly, and attentive, contributing to a truly enjoyable experience. We had a very good time throughout the three days we spent here and left completely relaxed. I highly recommend this place to anyone who wants a few days of peace in the middle of nature. We will definitely come back whenever we feel the need for a getaway away from the hustle and bustle of everyday life."
+      },
+      {
+        "name": "Weiscovici",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "Great place to relax, clean, beautiful and very welcoming host"
+      },
+      {
+        "name": "Wendy",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "Wonderful stay at Dragos'! We didn't get a chance to meet, but Dragos made sure our arrival went very smoothly, was very responsive, and gave us suggestions for things to see on site and places to eat. And what can I say about the accommodation? It's a break from it all, a return to nature. The land is beautiful, the accommodation is charming, and the animals greet us when we arrive. In short, I totally recommend staying at Dragos' place, whether for the hosting, the accommodation, or the activities to do!"
+      },
+      {
+        "name": "Mel",
+        "stars": 5,
+        "date": "May 2026",
+        "message": "A unique stay in tranquil surroundings. The treehouse was a perfect hideaway for a couple of days unwinding in nature. Our hosts were extremely welcoming, making us feel completely at home and proactively went out of their way to make our stay a pleasant one. The space itself is incredibly unique, although as expected quite small (just one room for bedroom, bathroom & kitchen without much personal space) so well suited for couples that \"know each other well\" and we would recommend keeping luggage to a minimum! We found it an incredible place and would absolutely love to go back and stay again."
+      },
+      {
+        "name": "Vlad",
+        "stars": 5,
+        "date": "March 2026",
+        "message": "Me and my wife stayed here for two nights. We chose this place while searching for a cozy and private escape from metropolitan areas. It had everything we wanted and the atmosphere was something we have never experienced before, almost fairy tail-ish: sleeping in a tree-house, guarded by two fluffy dogs, watching the stars at night. The hosts went above and beyond to make sure everything was to our liking and we received all the information we needed. Access to the location is straight-forward. Plenty of things to do in the area. We are already planning to return in the future, hopefully staying for a longer period!"
+      },
+      {
+        "name": "Cristian",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "Had a really pleasant stay here, would come back, as this place really offered us what we were looking for - beautiful surroundings and a peaceful, quiet atmosphere."
+      },
+      {
+        "name": "Cosmin",
+        "stars": 5,
+        "date": "January 2026",
+        "message": "Amazing experience. Very cozy and had everything we needed. It was a little small but its just right for 2 people."
+      },
+      {
+        "name": "Zornica",
+        "stars": 5,
+        "date": "February 2026",
+        "message": "This place was more than perfect in every possible way. From the moment we arrived, everything felt magical and thoughtfully created. The host was incredibly kind, welcoming, and attentive, making us feel truly at home. You can see and feel how much love, effort, and taste have been put into every single detail — nothing is random, everything is done with such care and style. The atmosphere is peaceful, cozy, and absolutely unforgettable. This place will forever remain in my heart. It’s one of those rare experiences that stay with you long after you leave. And a very special mention to the adorable, sweet dogs who were with us the whole time — they made the stay even more special and heartwarming. Congratulations on creating something so beautiful. This is truly a place to remember, and I cannot recommend it enough.❤️❤️❤️"
+      },
+      {
+        "name": "Ana",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "We spent two very nice nights here, in a peaceful setting with a gorgeous view of the snow-covered mountain, right from bed. For my child, the experience was wonderful – the animals in the yard were a daily delight, and the playground (swings and slides) was a great plus. The house was clean, well heated, and equipped with everything needed for a comfortable stay, including with a child. The host was attentive and made sure everything was in order. The approximately 1-kilometer (0.6-mile) unpaved road is accessible and manageable if you drive carefully, even with a lower-riding car. Parking in the yard is very convenient. Overall, a perfect place for relaxation, fresh air, and quality time. I highly recommend it!"
+      },
+      {
+        "name": "Larisa-Ioana",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "This experience gave us a wonderful connection with nature and the beauty of the mountain. We really enjoyed the visits from the dogs Cora and King, the cats, and the duck on the lake, who kept us very good company. The property is located next to a very nice and quiet farm, where you can buy various household items. This treehouse provided us with everything we needed in one place. The place is very well equipped, extremely private, and offers a view from just about every corner. The hosts are very friendly, gave us as much privacy as possible, and made us feel right at home."
+      },
+      {
+        "name": "Alexia",
+        "stars": 5,
+        "date": "January 2026",
+        "message": "I had a wonderful experience at this accommodation. Besides the host who welcomed us, we were able to enjoy the peace and beauty of the area. Fluffy friends, dogs, cats, they also welcomed us with all their love"
+      },
+      {
+        "name": "Christianna",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "The treehouse is located in a magical spot that Dragus and his wife have created with great care! If you're a nature lover, this place is paradise! We will definitely be back!"
+      },
+      {
+        "name": "Ben",
+        "stars": 5,
+        "date": "February 2026",
+        "message": "beautiful place, in an amazing setting, with a wonderfully creative host and their gorgeous dogs"
+      },
+      {
+        "name": "Tudorache",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "The animals were very friendly, the view was amazing, and we found everything we needed. A wonderful experience."
+      },
       {
         "name": "Stefanescu",
         "stars": 5,
@@ -437,9 +593,171 @@
   },
   {
     "url": "https://airbnb.com/h/piece-of-dream",
-    "timestamp": "2026-10-01T18:49:55.801Z",
+    "timestamp": "2026-10-01T19:08:47.266Z",
     "generalRating": null,
     "reviews": [
+      {
+        "name": "Shany",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "A very magical place! A dream of a place, really! We had a great time with our child, an experience that can't be found everywhere. The hosts are warm, nice, attentive, and welcoming. The place is very clean and equipped with everything you need. There is also a small rope course for children, who really enjoyed playing outside. There is also a designated place for the campfire we lit, and we roasted marshmallows. The place is more beautiful than the attached photos. One of the most inviting and fun places we've been to! Recommended! Recommended! Recommended!"
+      },
+      {
+        "name": "Anne",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "Great family stay with a place that we regretfully leaving. The cabin is very pretty and very comfortable, with a very pleasant direct environment: children's games, barbecue, outdoor fireplace, outdoor dining table and sunbeds. Kids loved the proximity to dogs and cats. Dragos and his wife are very welcoming, available and recommended a very nice hike. Thank you for this wonderful stay"
+      },
+      {
+        "name": "Astar",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "We had a wonderful stay! The hosts were incredibly kind, welcoming, and always happy to help with anything we needed. They even took us to a local farm to buy fresh milk and cheese directly from the farmer, which was such an authentic and memorable experience. The cabin is conveniently located, just a short drive from many attractions and shopping areas. We really enjoyed our stay and highly recommend this place!"
+      },
+      {
+        "name": "Andreea",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "Everything was great! A fun place to stay for the kids too; my little girl was very happy with the location. We'll come back another time! ❤️"
+      },
+      {
+        "name": "Vera",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "We very much enjoyed our stay! Very nice surroundings and garden around the accommodation."
+      },
+      {
+        "name": "Wout",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "We really liked the place! Friendly people, charming. You do need a car to get there and go to places"
+      },
+      {
+        "name": "Adriana",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "My husband and I had a wonderful time. The location is ideal for a quiet weekend for two. Lots of peace and quiet, impeccable cleanliness, and the way everything is cared for and arranged confirms the saying \"the man makes the place.\" Highly recommended!"
+      },
+      {
+        "name": "Sarit",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "Great host! My daughters absolutely loved the loft cabin and having their own space at the very top. The area is beautiful, full of trees, and has a wonderful orchard. Thank you so much, Dragos!"
+      },
+      {
+        "name": "הדס",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "A lovely place for children Climbing structure, trampoline, picnic table. Lots of outdoor space A fully equipped kitchen, although we brought everything we needed with us. The host is helpful and nice. Everything we needed was there or he brought it to us. The main drawback was the shower because you have to wait half an hour between showers, so shower time for a family can take an hour and a half/two hours."
+      },
+      {
+        "name": "Anna",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "Very pleasant and clean accommodation. It was very exotic. Far enough away from the city to disconnect. The only small downside is that it is very hot in the upstairs bedroom, even with the air conditioning."
+      },
+      {
+        "name": "Stefana",
+        "stars": 4,
+        "date": "June 2026",
+        "message": "It was a pleasant stay, a beautiful area, although I expected the cottages to be in the woods. They are in a residential area in Rasnov, and the cottage where we stayed is separated from the forest by a fence. The stairs in the house are a bit dangerous for children, but otherwise, we appreciated the cleanliness, the very large beds, and the communication with the host. The yard is very beautiful and equipped with several playgrounds and friendly animals, all of which were appreciated by the children."
+      },
+      {
+        "name": "Aline",
+        "stars": 4,
+        "date": "June 2026",
+        "message": "Very nicely done, rustic, as described. Highlight: the view of the birch forest from the bed – priceless. Some strong odors on the porch but not in the house. Dear animals in the square. Good coffee machine. The path to the house has holes and stones. It's quite manageable, but you absolutely need to take out comprehensive insurance – rockfall :("
+      },
+      {
+        "name": "Lena",
+        "stars": 5,
+        "date": "May 2026",
+        "message": "We liked the place very much. All houses are creatively designed. Everything was clean and well decorated. The communication was great, and the animals were very cute. Thanks."
+      },
+      {
+        "name": "Abdel",
+        "stars": 5,
+        "date": "May 2026",
+        "message": "this has been one of the best experiences we had on AirBnB. we very much appreciate Dragoș and Madalina for their hospitality. whoever finds this place available and books it are very lucky. Cora and King are good boys. bring them treats!"
+      },
+      {
+        "name": "Benjamin",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "Great stay. Ideal with children. They want to come back to pet the dogs :-) Very nice host. Excellent comfort and amenities. Thanks!"
+      },
+      {
+        "name": "Anaïs",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "We had a great time. Dragos and his wife gave us great tips and were always ready to help. The setting is ideal, and a special mention goes to the animals and the play areas, which my son sorely misses! Thank you!"
+      },
+      {
+        "name": "Yassen",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "We had a wonderful stay at this cozy cabin as a family of four. The surroundings were peaceful, with beautiful nature all around. The cabin was spotless, comfortable, and ideal for a short stay. Dragos was responsive and very helpful, ensuring everything went smoothly throughout our visit. Overall, it’s a charming and relaxing retreat that we would happily recommend."
+      },
+      {
+        "name": "Aviad",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "The peace of dream chalet was amazing. All the surrounding is so beautiful and peaceful countryside. Drago is a wonderful host we felt immediately at home, and especially the two wonderful dogs king and Cara that are so gentle with the children and all the playgrounds made the experience even more exciting. I would surly recommend Dragos place it is just plain amazing. We loved it."
+      },
+      {
+        "name": "Amram",
+        "stars": 5,
+        "date": "December 2025",
+        "message": "Perfect place for those looking to get away from the noise of the city. Close to everything from cafes to the city of Brasov. Dreamy view"
+      },
+      {
+        "name": "Mihaela",
+        "stars": 5,
+        "date": "December 2025",
+        "message": "We had a great experience at “Piece of Dream” Cabin in Râșnov. Everything was impeccable: very clean, organized and thought out in the smallest details. We found absolutely everything we needed, including toys for the child, which made the stay much easier and pleasant. The courtyard is well maintained and well appointed, with a playground, friendly animals and convenient parking. It's clear the owners put their hearts into this place. You rarely meet such a well-maintained and welcoming cottage. We were extremely pleased and will definitely come back ⭐️⭐️⭐️⭐️⭐️I highly recommend!"
+      },
+      {
+        "name": "Δωρα",
+        "stars": 5,
+        "date": "March 2026",
+        "message": "We had a wonderful stay at this cozy wooden cabin in the forest. It was peaceful, clean and surrounded by beautiful nature. The host was incredibly kind and welcoming, making sure we had everything we needed. Highly recommended for a relaxing getaway! Our kids loved the great playground and the adorable pets that were around!"
+      },
+      {
+        "name": "Marian Ionel",
+        "stars": 5,
+        "date": "December 2025",
+        "message": "The location was very nice,everything was  exceptional, the kids like the location, lots of things to do ."
+      },
+      {
+        "name": "Miruna",
+        "stars": 5,
+        "date": "February 2026",
+        "message": "I arrived at the location with excitement, I found exactly what I saw in the pictures, even more beautiful.  Cora and King welcomed us and guarded us, the children adored them (and we adults but we did not have a place for children) the kittens also guarded us and stayed to be caressed💛. We found everything, including spices, oil, various things for the kitchen, toys for children and books for children and adults. Very kind and responsive hosts. Thank you for your welcome, we can't wait to come back!"
+      },
+      {
+        "name": "Jude",
+        "stars": 5,
+        "date": "January 2026",
+        "message": "Amazing location, peaceful, very nice and kind host, helpful. The house is incredible and the dogs King and Cora and the cats make the stay 10 times more fun as they love being pet. Will come again"
+      },
+      {
+        "name": "Daniel Liviu",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "Although the weather was not on our side, the cottage provided us with every possible comfort (and King and Cora kept us company)."
+      },
+      {
+        "name": "Avishai",
+        "stars": 5,
+        "date": "March 2026",
+        "message": "We had the most peaceful and serene stay. Râsnov is just the best getaway you can find in Transylvania. village life, animals, snowy chilly weather, amazing friendly people. I recommend using DPM RASNOV taxi. we didn't arrive with a car, being dependant on taxis- please use the local taxis and NOT bolt/Uber - as these drivers don't really know the area as well. Dragos was very helpful and friendly, reccomeded us local attractions and malls. I forgot to check if the place came with an oven and Dragos gave us one even though the Airbnb listing said no oven. and the stars of the show- King and Kora the beautiful dogs! worth coming just for them!"
+      },
+      {
+        "name": "Hilal",
+        "stars": 5,
+        "date": "December 2025",
+        "message": "perfection"
+      },
       {
         "name": "Nena",
         "stars": 5,
@@ -1146,9 +1464,147 @@
   },
   {
     "url": "https://airbnb.com/h/guitarhouse",
-    "timestamp": "2026-10-01T18:49:55.801Z",
+    "timestamp": "2026-10-01T19:08:47.266Z",
     "generalRating": null,
     "reviews": [
+      {
+        "name": "Victoria",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "Book this place! It's even better than in the photos. The guitar house is lovely, clean and so much fun. The grounds in which it is located are immaculate and very peaceful. My sons loved the playground and the little mini-market that has been set up across the road stocked with drinks, snacks and toys for them to buy. Great communication from the host. It's a very special place. We were sad to leave and will be telling everyone about it."
+      },
+      {
+        "name": "Cristina",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "The house and the yard are very beautiful and have everything needed for a pleasant and relaxing vacation. The host is very nice and well-intentioned. I highly recommend this unique accommodation! We will definitely come back!"
+      },
+      {
+        "name": "Quentin",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "A beautiful tiny house, well-equipped and in a peaceful oasis. It was a great time"
+      },
+      {
+        "name": "Ana Maria",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "We had a great time in this tiny house. The children were delighted with the guitar, but especially with the beautifully designed playground. The surroundings are amazing. Falling asleep and waking up with the mountains literally in front of your eyes is a dream! It's very quiet, the yard is large and beautifully landscaped. Dragos helped us every time we needed anything."
+      },
+      {
+        "name": "Liron",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "Perfect place for a family with kids They thought about every little detail"
+      },
+      {
+        "name": "Ivan",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "What an extraordinary experience staying at the tiny guitar house. Absolutely loved every bit of our stay. Impressed with how spacy the guitar actually is. Comfortable and cozy beds. Fully equipped kitchen. Really nice bathroom. And cozy outdoor barbecue area and playground. My kids absolutely loved it. Surrounding nature is beautiful with great views from the big windows of the house. Great information and communication from Draco and family. They helped us out when ordering take away from the nearby restaurant, which was really useful. Guitar house is just a short drive from lots of activities and attractions. Rasnov citadel, Bran castle, horse riding, public swimming pools and more. But the guitar house itself was worth the trip itself. Thank you"
+      },
+      {
+        "name": "Marijke",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "Staying here felt like a beautiful serenade. A guitar-shaped tiny house that doesn’t need strings to touch your heart. Surrounded by peaceful nature, where every sunrise begins a new melody and every evening ends with the gentle applause of birdsong. The cozy veranda is the perfect stage for relaxing moments, the barbecue adds warmth to the experience, and the wonderful shower is the perfect finale to each day. Waking up to the breathtaking view is like the opening note of a beautiful song. This is more than just a place to stay. It’s a musical journey in a charming tiny house that will leave you smiling long after the final note has faded. Bravo!"
+      },
+      {
+        "name": "Tracy",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "Had the most fantastic stay at this fabulous little gem. The guitar is exactly as described and even better in the flesh. Great location with Bran Castle and Brasov only a short taxi ride away. Dragos was a fantastic host and a big shout out to Christi for taking us everywhere we wanted to go. Would thoroughly recommend"
+      },
+      {
+        "name": "Flutur",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "The location is perfectly situated: it's not far from Rasnov, but far enough to be surrounded by nature, tranquility, and mountains. The house is very beautiful, the view from the bed was my favorite, and in the yard you have enough space and privacy"
+      },
+      {
+        "name": "Neige",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "Excellent stay in the heart of the Carpathians. The setting is peaceful and rejuvenating, and the guitar-themed accommodation is unique and very comfortable. We had a wonderful stay in a magnificent, quiet setting, perfect for families with all the games nearby. 25 minutes from all activities and Bran! Thanks for this wonderful stay 🙏"
+      },
+      {
+        "name": "Craig",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "2nd time here- this is a favorite for my family. Great location and very cool place."
+      },
+      {
+        "name": "Gheorghe",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "First of all, I highly recommend it. You won't regret it. We all had a great time, especially the kids; they didn't want to go back inside. The perfect playground. Excellent for relaxation and nature. Secondly, I want to congratulate the host for creating this very nice chalet-style house. We will definitely return to the other special places as well. Thank you."
+      },
+      {
+        "name": "Ashley",
+        "stars": 5,
+        "date": "May 2026",
+        "message": "An excellent stay from start to finish. The property was exactly as described, spotless, well-equipped, and had everything we needed. The location was great, and the whole experience was seamless. We couldn't find fault with anything and would happily stay here again. Highly recommended."
+      },
+      {
+        "name": "Larisa",
+        "stars": 5,
+        "date": "May 2026",
+        "message": "The Guitar Tiny House was a really great place for us to stay. Located in the middle of nature with beautiful views of the Carpathians, it was the perfect place for us to stay. Our older child particularly liked the playground, which is designed to be absolutely childproof, so you can easily let children jump around. We enjoyed it very much and can highly recommend it. We were there as a family of 4, with a toddler and a baby."
+      },
+      {
+        "name": "Rui",
+        "stars": 5,
+        "date": "3 weeks ago",
+        "message": "Beautiful cottage!"
+      },
+      {
+        "name": "Gabriela",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "Excelent"
+      },
+      {
+        "name": "Kelly",
+        "stars": 5,
+        "date": "March 2026",
+        "message": "The guitar house was an excellent choice for us and we really enjoyed our stay there. It s located in a peaceful area and you can explore main attractions of Transylvania easily. The communicaton with the owners was perfect. We met some fur friends at the garden and it was definitely a bonus  for my family. Recommended for sure."
+      },
+      {
+        "name": "Rasa",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "An impressive and extraordinary experience: a sincere thank you for the owners for incredible idea, its execution, and the high quality of everything in the house. We will remember this stay fondly."
+      },
+      {
+        "name": "Aner",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "Great service, and very smooth communication. Perfect apartment for exploring the city."
+      },
+      {
+        "name": "Myles",
+        "stars": 5,
+        "date": "January 2026",
+        "message": "Phenomenal place. Would highly recommend. Peaceful. Loved the location. If you want peace this is the place to go. Super friendly host. And helpful."
+      },
+      {
+        "name": "Adrian",
+        "stars": 5,
+        "date": "April 2026",
+        "message": "A fairytale little spot of nature, peace, calm & awsome 🏔️🏔️🏔️ views! Definitely recommend and we'll be back!"
+      },
+      {
+        "name": "Sorina",
+        "stars": 5,
+        "date": "February 2026",
+        "message": "Amazing stay, great hosts and beautiful place. We surely enjoyed every bit and will recommend further"
+      },
+      {
+        "name": "Sam",
+        "stars": 5,
+        "date": "January 2026",
+        "message": "Staying at The Guitar House in Râșnov was honestly one of the best decisions of my trip. The place has such a unique charm — from the creative design to the cosy atmosphere, everything felt welcoming the moment I walked in. But what truly made the experience unforgettable was the host. If you’re visiting Râșnov, The Guitar House is a gem — a peaceful retreat with a host who treats you like family. Highly recommended! 🎸✨"
+      },
       {
         "name": "Razvan",
         "stars": 5,
@@ -2234,9 +2690,105 @@
   },
   {
     "url": "https://airbnb.com.ro/h/bricksandjoy",
-    "timestamp": "2026-01-01T22:58:32.787Z",
+    "timestamp": "2026-10-01T19:08:47.266Z",
     "generalRating": null,
     "reviews": [
+      {
+        "name": "Medeea",
+        "stars": 5,
+        "date": "4 days ago",
+        "message": "Sejurul nostru la Bricks & Joy a fost superb, ne-am relaxat si delectat cu o priveliste de vis. Copilul nostru a fost foarte incantat de locul de joaca. Gazdele au fost dragute si prompte in comunicare. Recomandam!"
+      },
+      {
+        "name": "Andrei",
+        "stars": 5,
+        "date": "3 weeks ago",
+        "message": "Totul minunat! Cu siguranta vom mai reveni si la celelalte casute! Am stat 2 adulti si doi copii si a fost spatiul suficient."
+      },
+      {
+        "name": "Nicoleta",
+        "stars": 4,
+        "date": "August 2026",
+        "message": "Experiență bună!"
+      },
+      {
+        "name": "Anamaria",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "Casuta Lego a fost o experienta frumoasa. Locul este unul placut si linistit. Locul de joaca este cireasa de pe tort, extraordinar pentru copii. Ai la dispozitie tot ce e nevoie pentru a te simti acasa, totul curat si ingrijit. Este locul in care ne-ar face placere sa ne intoarcem oricand."
+      },
+      {
+        "name": "Jugariu",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "Este extraordinar pentru familii cu copii. Casa este facuta la propriu din piese Lego"
+      },
+      {
+        "name": "Rocío",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "Am petrecut câteva zile la cabana lui Lego. Mi-a plăcut șederea și zona pentru copii. Ceea ce mi-a plăcut cel mai mult a fost că, având casa chitară în față, fiul meu putea să-și facă prieteni și să se joace în timp ce noi pregăteam cina. Patul este imens și foarte confortabil. Îl recomand."
+      },
+      {
+        "name": "Gabriela",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "Totul a fost minunat, locul de joacă este superb, la fel si căsuța. Copilașii au avut ocupație și s-au simțit foarte bine, la fel și noi ❤️"
+      },
+      {
+        "name": "Hee Jin",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "Îmi place pentru că mă pot bucura din plin de natură și de stelele de pe cerul serii."
+      },
+      {
+        "name": "Bara",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "Curat, liniștit și perfect pentru familii. Priveliștea este foarte frumoasă, iar fiicei mele i-a plăcut foarte mult zona de joacă pentru copii. Cu siguranță vom sta din nou aici!"
+      },
+      {
+        "name": "Vasile",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "Casuta este mult mai interesanta in persoana, se vede ca a fost facuta cu pasiune, a fost curata, ingrijita si utilata cu tot ce am avut nevoie."
+      },
+      {
+        "name": "Natalia",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "Locatie exceptionala, casute inedite, instructiuni clare, recomandari f bune. Am mers cu un copil de aproape 4 ani si s a jucat in locul de joaca, care a fost surprinzator de bine dotat."
+      },
+      {
+        "name": "Laurentiu",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "Cu siguranță un mic colț de rai în inima Brașovului, aproape de multe obiective turistice de interes. A fost foarte curat, bine gândit, cu totul unic iar pentru o familie cu doi copilași mici, parcul din curte a fost atracția cazării! Un alt plus a fost designul făcut cu mult efort și pasiune: o căsuță lego! Felicitări pentru inițiativă și conceptul unic."
+      },
+      {
+        "name": "Lavinia",
+        "stars": 5,
+        "date": "June 2026",
+        "message": "Un loc in care timpul se dilata, poziționarea, liniștea, confortul, faptul ca este aproape de punctele de interes ale zonei, toate au facut ca 2 zile sa se simtă ca si cum am petrecut o vacanta lunga. Un refugiu minunat dupa zilele pline de activități cu copilul, iar locul de joaca are posibilitati de joaca pentru copiii de toate vârstele."
+      },
+      {
+        "name": "Sorin",
+        "stars": 5,
+        "date": "May 2026",
+        "message": "O locuință foarte frumoasă, cu tematică Lego. Este grozav pentru copii, dar am fost un cuplu fără copii și tot ne-am simțit bine. Terasa exterioară a fost foarte frumoasă. Au fost o mulțime de pisici drăguțe care au venit să ne viziteze afară."
+      },
+      {
+        "name": "Sorina",
+        "stars": 5,
+        "date": "February 2026",
+        "message": "Mi-a plăcut locul, împrejurimile frumoase, iar gazdele au fost foarte drăguțe. Recomand cu căldură!"
+      },
+      {
+        "name": "Gina",
+        "stars": 5,
+        "date": "January 2026",
+        "message": "O locație inedită care ne -a surprins plăcut din toate punctele de vedere, tematica, spatiu și mobilier, locație, locul de joaca, totul perfect"
+      },
       {
         "name": null,
         "stars": null,
