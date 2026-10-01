@@ -1,9 +1,27 @@
 [
   {
     "url": "https://airbnb.com/h/piece-of-heaven",
-    "timestamp": "2026-01-01T22:57:10.175Z",
+    "timestamp": "2026-10-01T18:49:55.801Z",
     "generalRating": null,
     "reviews": [
+      {
+        "name": "Stefanescu",
+        "stars": 5,
+        "date": "1 week ago",
+        "message": "Great place. We loved every single thing about it, especially the cats and dogs that were roaming around the yard. They climbed the small property's stairs many times to stay with us. The room was exactly like in the pictures, a small all in one accommodation."
+      },
+      {
+        "name": "Mátyás-János",
+        "stars": 5,
+        "date": "4 days ago",
+        "message": "A very cozy little wooden house!"
+      },
+      {
+        "name": "Amy",
+        "stars": 5,
+        "date": "3 weeks ago",
+        "message": "I absolutely loved my stay here. It is, indeed, a piece of heaven. Exactly the beauty and the seclusion and the beauty that I hoped for. A peaceful reset."
+      },
       {
         "name": "Miriam",
         "stars": 5,
@@ -419,9 +437,27 @@
   },
   {
     "url": "https://airbnb.com/h/piece-of-dream",
-    "timestamp": "2026-01-01T22:57:37.590Z",
+    "timestamp": "2026-10-01T18:49:55.801Z",
     "generalRating": null,
     "reviews": [
+      {
+        "name": "Nena",
+        "stars": 5,
+        "date": "2 days ago",
+        "message": "We had a wonderful few days at Drago's Airbnb. The Airbnb is truly a gem and ideal if you want to spend a few days in the area and have a little peace and quiet in the evenings! Glad to come back!"
+      },
+      {
+        "name": "אלעד",
+        "stars": 3,
+        "date": "1 week ago",
+        "message": "It was okay"
+      },
+      {
+        "name": "Rachelle",
+        "stars": 5,
+        "date": "3 weeks ago",
+        "message": "My family, including our two kids (8 and 9), really enjoyed our stay at Dragos’s very unique property. There was so much to enjoy and so much thoughtful detail to appreciate throughout the area. The kids especially loved the dogs and cats, the hammock, and the very cool play structure just steps from our front door. Our tiny home was tucked into the woods, which made the setting feel truly magical. With the large windows in the bedroom, it felt like waking up surrounded by a canopy of trees. Communication with Dragos was excellent, and the accommodation was very clean and had everything we needed for a comfortable stay. We would highly recommend staying here and would happily return."
+      },
       {
         "name": "Tatiana",
         "stars": 5,
@@ -1110,9 +1146,27 @@
   },
   {
     "url": "https://airbnb.com/h/guitarhouse",
-    "timestamp": "2026-01-01T22:58:00.263Z",
+    "timestamp": "2026-10-01T18:49:55.801Z",
     "generalRating": null,
     "reviews": [
+      {
+        "name": "Razvan",
+        "stars": 5,
+        "date": "3 days ago",
+        "message": "We had a very nice experience at this tiny house, where we stayed with my wife and our child. The place is very nice, clean, comfortable and tastefully decorated. The atmosphere is quiet and relaxing, exactly what we wanted for a few days spent with the family. We had a very nice time throughout our stay, and our child also enjoyed the experience very much. Everything was as we expected, and the place left us with an excellent impression. We would definitely come back and highly recommend this place to families looking for peace, comfort, and a different experience."
+      },
+      {
+        "name": "Bianca",
+        "stars": 5,
+        "date": "3 weeks ago",
+        "message": "Everything was perfect. We will be glad to come back!"
+      },
+      {
+        "name": "Panagiotis",
+        "stars": 5,
+        "date": "September 2026",
+        "message": "What Dragos has done is truly unique. All the homes they have built are fantastic. I think it's a unique choice, especially for families with children. Please note that although it is located in a relatively convenient spot for exploring the entire main area of Transylvania, a possible disadvantage is that as an area, it is relatively far from any large village with a lot of \"life\" (Rasnov will only cover you for the very basics because, at least during the season we went, it had very few people and options). Therefore, it is advisable to have enough supplies before you go there so that you can stay comfortably without having to go back and forth."
+      },
       {
         "name": "Alexandros",
         "stars": 5,
@@ -1795,9 +1849,33 @@
   },
   {
     "url": "https://airbnb.com/h/rasnovdome",
-    "timestamp": "2026-01-01T22:58:17.444Z",
+    "timestamp": "2026-10-01T18:54:34.404Z",
     "generalRating": null,
     "reviews": [
+      {
+        "name": "Gergana",
+        "stars": 5,
+        "date": "August 2026",
+        "message": "Very nice location, zen feeling! Highly recommended for those who want to stay outside the city. The kids also loved it. There was enough space for 4 to 5 people, and a large garden with fruit bushes."
+      },
+      {
+        "name": "Andreas",
+        "stars": 5,
+        "date": "July 2026",
+        "message": "The house looks like in the photos and is really impressive. It is located in a quiet garden with sunny and shaded areas. A bit \"off the beaten track\" - but that was exactly what we were looking for. Only the kitchen amenities sometimes leave something to be desired."
+      },
+      {
+        "name": "Alex",
+        "stars": 5,
+        "date": "January 2026",
+        "message": "Very nice and beautiful house. Lots of place inside and outside. Warm and cozy. Bbq with everything for bbq. Thanks it was a nice stay!"
+      },
+      {
+        "name": "Daniel",
+        "stars": 5,
+        "date": "January 2026",
+        "message": "Great place for a family with kids and pets."
+      },
       {
         "name": "Georgi",
         "stars": 5,
