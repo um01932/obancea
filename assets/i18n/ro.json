@@ -140,7 +140,7 @@
       "GOOGLE": "Direcții Google Maps"
     },
     "CHECKIN_CHECKOUT": {
-      "TITLE": "Check-in & Check-out",
+      "TITLE": "Check-in & Check-out & Regulile casei",
       "CHECKIN": "Check-in: de la 15:00",
       "CHECKOUT": "Check-out: până la 11:00",
       "ARRIVAL_TIME": "Te rugăm să ne anunți ora aproximativă de sosire în ziua de check-in pentru a ne putea pregăti în consecință.",
@@ -169,7 +169,7 @@
       "PIECE_OF_HEAVEN": {
         "NAME": "Piece of Heaven",
         "HEATING": "<strong>Încălzire:</strong> Încălzire electrică în pardoseală cu termostat inteligent. Pe vreme foarte rece, folosește șemineul clasic pe lemne furnizat. Folosește întotdeauna cu precauție, casa fiind din lemn. Folosește doar lemnele și brichetele furnizate. Nu plasa niciodată nimic pe sau lângă șemineu.",
-        "FIREPLACE_USE": "<strong>Folosirea Șemineului:</strong>",
+        "FIREPLACE_USE": "<strong>Folosirea Șemineului (doar iarna):</strong>",
         "FIREPLACE_STEP1": "Plasează 2 brichete de foc în șemineu și aprinde-le.",
         "FIREPLACE_STEP2": "Adaugă 3-4 bucăți mici de lemn și 2-3 mai mari deasupra.",
         "FIREPLACE_STEP3": "Asigură-te că focul de la brichete ajunge la lemne, apoi închide ușa șemineului.",

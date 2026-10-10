@@ -142,7 +142,7 @@
       "GOOGLE": "Google Maps-Wegbeschreibung"
     },
     "CHECKIN_CHECKOUT": {
-      "TITLE": "Check-in & Check-out",
+      "TITLE": "Check-in & Check-out & Hausregeln",
       "CHECKIN": "Check-in: ab 15:00 Uhr",
       "CHECKOUT": "Check-out: bis 11:00 Uhr",
       "ARRIVAL_TIME": "Bitte teilen Sie uns Ihre ungefähre Ankunftszeit am Check-in-Tag mit, damit wir uns entsprechend vorbereiten können.",
@@ -171,7 +171,7 @@
       "PIECE_OF_HEAVEN": {
         "NAME": "Piece of Heaven",
         "HEATING": "<strong>Heizung:</strong> Elektrische Fußbodenheizung mit intelligentem Thermostat. Bei sehr kaltem Wetter verwenden Sie den bereitgestellten klassischen Holzkamin. Verwenden Sie ihn immer vorsichtig, da das Haus aus Holz ist. Verwenden Sie nur das bereitgestellte Holz und Briketts. Stellen Sie niemals etwas auf oder neben den Kamin.",
-        "FIREPLACE_USE": "<strong>Kaminbenutzung:</strong>",
+        "FIREPLACE_USE": "<strong>Kaminbenutzung (nur im Winter):</strong>",
         "FIREPLACE_STEP1": "Legen Sie 2 Feuerbriketts in den Kamin und zünden Sie sie an.",
         "FIREPLACE_STEP2": "Fügen Sie 3-4 kleine Holzstücke und 2-3 größere darüber hinzu.",
         "FIREPLACE_STEP3": "Stellen Sie sicher, dass das Feuer von den Briketts auf das Holz übergeht, dann schließen Sie die Kamintür.",

@@ -144,7 +144,7 @@
       "GOOGLE": "Google Maps Directions"
     },
     "CHECKIN_CHECKOUT": {
-      "TITLE": "Check-in & Check-out",
+      "TITLE": "Check-in & Check-out & House rules",
       "CHECKIN": "Check-in: from 15:00 PM",
       "CHECKOUT": "Check-out: until 11:00 AM",
       "ARRIVAL_TIME": "Please let us know your approximate arrival time on check-in day so we can prepare accordingly.",
@@ -173,12 +173,12 @@
       "PIECE_OF_HEAVEN": {
         "NAME": "Piece of Heaven",
         "HEATING": "<strong>Heating:</strong> Electric floor heating with smart thermostat. In very cold weather, use the provided classic wood fireplace. Always use caution, as the house is made of wood. Only use the wood and fire briquettes provided. Never place anything on or near the fireplace.",
-        "FIREPLACE_USE": "<strong>Fireplace Use:</strong>",
+        "FIREPLACE_USE": "<strong>Fireplace Use (only in winter):</strong>",
         "FIREPLACE_STEP1": "Place 2 fire briquettes in the fireplace and light them.",
         "FIREPLACE_STEP2": "Add 3-4 small wood pieces and 2-3 larger ones on top.",
         "FIREPLACE_STEP3": "Ensure the fire from the briquettes reaches the wood, then close the fireplace door.",
         "FIREPLACE_STEP4": "Add larger wood pieces as needed to keep the fire going.",
-        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. Bring your own coals for the grill; we provide wood and briquettes to start the fire.",
+        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. You can bring your own charcoal or firewood for the grill, or buy some at our small minimarket.",
         "SHOWER": "<strong>Shower Water:</strong> Single on/off tap, temperature preset to 38°C.",
         "DOGS": "<strong>Our Dogs:</strong> Please do not feed them (except dog treats). Do not let dogs or cats inside. Keep the small gate closed so dogs do not reach the parking area."
       },
@@ -192,17 +192,17 @@
       "GUITAR_HOUSE": {
         "NAME": "Guitar House",
         "HEATING": "<strong>Heating:</strong> Electric floor heating with smart thermostat. The air conditioner can also be used to provide heating.",
-        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. Bring your own coals for the grill; we provide wood and briquettes to start the fire."
+        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. You can bring your own charcoal or firewood for the grill, or buy some at our small minimarket."
       },
       "GREEN_DOME": {
         "NAME": "Green Dome",
         "HEATING": "<strong>Heating:</strong> Gas heating with smart thermostat.",
-        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. Bring your own coals for the grill; we provide wood and briquettes to start the fire."
+        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. You can bring your own charcoal or firewood for the grill, or buy some at our small minimarket."
       },
       "BRICKS_AND_JOY": {
         "NAME": "Bricks and Joy",
         "HEATING": "<strong>Heating:</strong> Electric floor heating with smart thermostat. The air conditioner can also be used to provide heating.",
-        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. Bring your own coals for the grill; we provide wood and briquettes to start the fire."
+        "TERRACE": "<strong>Terrace & Grill:</strong> Small terrace, dedicated gazebo, and stone grill. You can bring your own charcoal or firewood for the grill, or buy some at our small minimarket."
       }
     }
   },
